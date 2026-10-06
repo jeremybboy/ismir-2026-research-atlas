@@ -1,0 +1,11 @@
+{
+  "id": "example-paper-title",
+  "sourceOrder": 1,
+  "title": "Example Paper Title",
+  "authors": [{ "name": "Author Name", "affiliation": "Affiliation when reliably parsed" }],
+  "primaryTopic": "transcription-analysis",
+  "conceptTags": ["transcription", "real-time"],
+  "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+  "paperUrl": null,
+  "classificationBasis": "title-and-metadata-inference"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "build-an-ai-band",
+    "title": "Build an AI band",
+    "premise": "A curated path through accompaniment, improvisation, playable generation, and arrangement systems.",
+    "editorialBasis": "curated-title-and-metadata-exploration",
+    "paperIds": [
+      "streaming-generation-for-music-accompaniment",
+      "liveband-live-accompaniment-generation-in-the-audio-domain",
+      "learning-jazz-pianist-style-with-cross-attention-conditioning",
+      "smartlooper-a-framework-for-personalized-human-ai-musical-improvisation",
+      "pianoid-3d-pianist-body-motion-generation-from-midi"
+    ]
+  },
+  {
+    "id": "design-intelligent-fx",
+    "title": "Design intelligent FX",
+    "premise": "A curated path through effects representation, mixing control, morphing, and production-aware models.",
+    "editorialBasis": "curated-title-and-metadata-exploration",
+    "paperIds": [
+      "peace-joint-embeddings-of-dsp-effects-code-and-audio",
+      "stemfx-learning-mixing-style-representations-via-autoregressive-fx-chain-prediction-on-s",
+      "beyond-dry-references-learning-relative-audio-effects-representations-via-contrastive-di",
+      "diff2mix-controllable-music-mixing-via-diffusion-models-and-differentiable-audio-effects",
+      "smorph-playable-sound-morphing-with-diffusion-models"
+    ]
+  },
+  {
+    "id": "explore-musical-traditions",
+    "title": "Explore musical traditions",
+    "premise": "A curated path across title-identified work on culturally situated repertoires, modes, archives, and analysis.",
+    "editorialBasis": "curated-title-and-metadata-exploration",
+    "paperIds": [
+      "investigating-ethiopian-kinit-in-secular-music-a-self-supervised-learning-and-computatio",
+      "oudtabs-an-interactive-microtonal-tablature-platform-for-cross-tradition-oud-repertoires",
+      "culture-specific-computational-musicology-in-practice-diarmaqar-digital-arabic-maqam-arc",
+      "an-open-corpus-for-arabic-maqam-recognition",
+      "adapting-music-foundation-models-to-iranian-classical-music",
+      "frame-level-pansori-mode-classification-with-complementary-audio-representations"
+    ]
+  }
+]

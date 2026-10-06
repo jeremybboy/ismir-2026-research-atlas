@@ -1,0 +1,26 @@
+{
+  "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+  "retrievedAt": "2026-10-06",
+  "totalPapers": 140,
+  "sourceSha256": "0a14e11e03a5d11f92a3a675e38884d52fb946e65c76b7aad31c698362e3437e",
+  "runtimeSourceDependency": false,
+  "fieldsCaptured": [
+    "title",
+    "authors",
+    "affiliations-when-reliably-separable"
+  ],
+  "verifiedPaperUrlsAvailable": false,
+  "reuseBoundary": "No abstracts or full paper text copied. Original code is MIT-licensed; conference and paper metadata are not claimed as project-owned.",
+  "reconciliation": {
+    "suppliedMaterial": "Ten titles visible in the supplied validated prototype screenshot; no separate machine-readable paper list was supplied.",
+    "suppliedTitleCount": 10,
+    "matchedTitleCount": 10,
+    "missingFromOfficial": [],
+    "changedTitles": [],
+    "duplicateNormalizedTitles": []
+  },
+  "preservedSourceNotes": [
+    "The affiliation “American University of Beiru” is preserved exactly as listed on the official page.",
+    "The affiliation “Universirty of Oslo” is preserved exactly as listed on the official page."
+  ]
+}

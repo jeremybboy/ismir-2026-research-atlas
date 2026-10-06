@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="An interactive, title-based atlas of accepted papers at ISMIR 2026.">
+    <meta name="theme-color" content="#f5f4ef">
+    <link rel="canonical" href="https://jeremybboy.github.io/ismir-2026-research-atlas/">
+    <title>Navigate the Music Research Landscape · ISMIR 2026 Research Atlas</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#paper-map">Skip to paper map</a>
+    <div id="app" class="site-shell">
+      <header class="masthead">
+        <div>
+          <p class="eyebrow">ISMIR 2026 · ABU DHABI</p>
+          <h1>Navigate the Music Research Landscape</h1>
+        </div>
+        <p class="dataset-stat"><strong id="paper-total">140</strong> papers · 5 topic regions</p>
+      </header>
+
+      <aside class="method-note" aria-label="Methodology qualifier"><strong>Exploratory model.</strong> Topics, positions, connections, and trails are interpretations inferred from titles and metadata—not official classifications or measured semantic relationships.</aside>
+
+      <nav id="topic-filters" class="topic-filters" aria-label="Filter papers by title-derived topic"></nav>
+
+      <section class="control-band" aria-label="Search and guided research trails">
+        <div class="trail-controls">
+          <label class="sr-only" for="trail-select">Guided research trail</label>
+          <select id="trail-select" aria-describedby="trail-premise">
+            <option value="">Explore freely</option>
+          </select>
+          <button id="trail-previous" type="button" aria-label="Previous paper in trail">←</button>
+          <button id="trail-next" type="button" aria-label="Next paper in trail">→</button>
+          <button id="trail-play" type="button">Play trail</button>
+          <button id="trail-pause" type="button" hidden>Pause</button>
+        </div>
+        <p id="trail-premise" class="trail-premise">Choose a curated exploration path or explore freely.</p>
+        <div class="search-control">
+          <label for="search">Search papers</label>
+          <input id="search" type="search" placeholder="Title, author, topic, or tag" autocomplete="off">
+        </div>
+      </section>
+
+      <main class="explorer">
+        <section class="map-panel" aria-labelledby="map-heading">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">SCHEMATIC TITLE MAP</p>
+              <h2 id="map-heading">Paper regions</h2>
+            </div>
+            <p id="map-result-count" aria-live="polite"></p>
+          </div>
+          <div class="map-frame">
+            <svg id="paper-map" viewBox="0 0 900 560" role="group" aria-labelledby="map-heading map-description"></svg>
+          </div>
+          <p id="map-title-preview" class="map-title-preview">Focus or select a point to reveal its full title.</p>
+          <p id="map-description" class="map-description">Every visible square or shape represents one paper. Positions are deterministic and schematic; they do not encode measured semantic distance. On small screens, pan inside the map to reach every point at a usable scale.</p>
+        </section>
+
+        <aside id="paper-detail" class="detail-panel" aria-labelledby="detail-title"></aside>
+      </main>
+
+      <section class="paper-index" aria-labelledby="paper-index-heading">
+        <div class="section-heading index-heading">
+          <div>
+            <p class="eyebrow">BROWSE THE DATASET</p>
+            <h2 id="paper-index-heading">All papers</h2>
+          </div>
+          <p id="list-result-count"></p>
+        </div>
+        <ol id="paper-list" class="paper-list"></ol>
+        <div class="pagination" aria-label="Paper list pagination">
+          <p id="page-status"></p>
+          <div>
+            <button id="page-previous" type="button">Previous</button>
+            <button id="page-next" type="button">Next</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="reading-queue" aria-labelledby="queue-heading">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">LOCAL TO THIS BROWSER</p>
+            <h2 id="queue-heading">Reading queue</h2>
+          </div>
+          <button id="queue-export" type="button">Export JSON</button>
+        </div>
+        <ol id="queue-list"></ol>
+        <p id="queue-empty">No papers saved yet.</p>
+      </section>
+
+      <footer>
+        <p>This independent exploratory visualization is derived from publicly listed ISMIR 2026 paper titles and author metadata. Topic assignments, concept tags, relationships, and guided trails are editorial interpretations and are not official ISMIR classifications.</p>
+        <p><a href="https://ismir2026.ismir.net/accepted-papers">Official ISMIR 2026 accepted-papers source</a> · Retrieved October 6, 2026 · No runtime scraping</p>
+      </footer>
+      <p id="selection-announcement" class="sr-only" aria-live="polite"></p>
+    </div>
+    <script type="module" src="/src/app.js"></script>
+  </body>
+</html>

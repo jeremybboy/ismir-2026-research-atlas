@@ -1,0 +1,707 @@
+{
+  "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+  "retrievedAt": "2026-10-06",
+  "totalPapers": 140,
+  "records": [
+    {
+      "sourceOrder": 1,
+      "title": "Off-Manifold Robustness in Synthesizer Inversion with Joint Distribution Flow Matching",
+      "rawAuthors": "Ben Hayes (Sony Computer Science Laboratories Paris)"
+    },
+    {
+      "sourceOrder": 2,
+      "title": "FusID: Modality-Fused Semantic IDs for Generative Music Recommendation",
+      "rawAuthors": "Haven Kim (University of California San Diego); Yupeng Hou (University of California San Diego); Julian McAuley (University of California San Diego)"
+    },
+    {
+      "sourceOrder": 3,
+      "title": "Dual-Time Representation Framework for Interactive Music Transcription",
+      "rawAuthors": "Yu Sugimoto (Kyushu University); Ryo Nishikimi (NTT Communication Science Laboratories); Eita Nakamura (Kyushu University)"
+    },
+    {
+      "sourceOrder": 4,
+      "title": "TUTTI: Toward generalizable audio-to-score transcription via fully synthesized data",
+      "rawAuthors": "Jianhuai Hu (Central Conservatory of Music); Yashan Wang (Central Conservatory of Music); Shangda Wu (Independent Researcher); Zhancheng Guo (Central Conservatory of Music); Shijie Liang (Central Conservatory of Music); Wuna Meng (Wuhan Conservatory of Music); Chuanqi Yang (Shanghai Conservatory of Music); Xiaobing Li (Central Conservatory of Music); Feng Yu (Central Conservatory of Music); Maosong Sun (TsingHua University)"
+    },
+    {
+      "sourceOrder": 5,
+      "title": "Streaming Generation for Music Accompaniment",
+      "rawAuthors": "Yusong Wu (University of Montreal, Mila); Mason Wang (MIT); Heidi Lei (MIT); Stephen Brade (MIT); Lancelot Blanchard (MIT); Shih-Lun Wu (MIT); Aaron Courville (University of Montreal, Mila); Anna Huang (MIT)"
+    },
+    {
+      "sourceOrder": 6,
+      "title": "Learning to Sing with Your Own Voice: Designing and Evaluating Generative AI-Assisted Vocal Coaching",
+      "rawAuthors": "Tianyu Gao (National University of Singapore); Shuqi Dai (Carnegie Mellon University); Roger B. Dannenberg (Carnegie Mellon University); Zhiyong Huang (National University of Singapore); Jin Song Dong (National University of Singapore); Jocelyn Dueck (Carnegie Mellon University)"
+    },
+    {
+      "sourceOrder": 7,
+      "title": "Pitch Estimation and Vocal Melody Extraction with Self-supervised Phase Comparators",
+      "rawAuthors": "Li Su (Academia Sinica)"
+    },
+    {
+      "sourceOrder": 8,
+      "title": "MuScriptor: An Open Model for Multi-Instrument Music Transcription",
+      "rawAuthors": "Simon Rouard (Kyutai); Michael Krause (Mirelo AI); Axel Roebel (IRCAM); Carl-Johann Simon-Gabriel (Mirelo AI); Alexandre Défossez (Kyutai)"
+    },
+    {
+      "sourceOrder": 9,
+      "title": "Pitch Shifting via Semantic Transformations in a Shared Audio-Symbolic Latent Space",
+      "rawAuthors": "Ben Maman (International Audio Laboratories Erlangen); Andreas Brendel (Fraunhofer IIS Erlangen); Meinard Müller (International Audio Laboratories Erlangen)"
+    },
+    {
+      "sourceOrder": 10,
+      "title": "Multi-Task Multi-Frame Visual Piano Transcription",
+      "rawAuthors": "Yonghyun Kim (Georgia Institute of Technology); Hoyeol Sohn (KAIST); Juhan Nam (KAIST); Alexander Lerch (Georgia Institute of Technology)"
+    },
+    {
+      "sourceOrder": 11,
+      "title": "Investigating Ethiopian Kiñit in Secular Music: A Self-Supervised Learning and Computational Analysis",
+      "rawAuthors": "Berihu Yohannes Tesfay (Institute of Information Science, Academia Sinica; National Tsing Hua University; Mekelle University); Cheng-Hsin Hsu (National Tsing Hua University); Samuel Redie Fishatsion (Arts Academy, Mekelle University); Li Su (Institute of Information Science, Academia Sinica)"
+    },
+    {
+      "sourceOrder": 12,
+      "title": "Towards Robust Version Identification in the Wild: A Dataset, Benchmark, and Fine-Tuning Study",
+      "rawAuthors": "Simon Hachmeier (Humboldt-Universität zu Berlin); R. Oguz Araz (Universitat Pompeu Fabra); Dmitry Bogdanov (Universitat Pompeu Fabra); Robert Jäschke (Humboldt-Universität zu Berlin); Xavier Serra (Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 13,
+      "title": "CrowdioSet and PaRIRset: Two Datasets Towards Live Music Source Separation",
+      "rawAuthors": "Enric Gusó (Universitat Pompeu Fabra); Xavier Serra (Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 14,
+      "title": "Prima la Musica! Musically-Informed Symbolic Features for Section Boundary Detection in MIDI",
+      "rawAuthors": "ELVIO CIPOLLONE (Centre Culturel Buqi); FRANCESCO CIPOLLONE (Centre Culturel Buqi)"
+    },
+    {
+      "sourceOrder": 15,
+      "title": "A Dataset and Benchmark for Optical Music Recognition of String Quartet Scores",
+      "rawAuthors": "DongMin Kim (Sogang University); Brian Liu (Independent Researcher); Jose J. Valero-Mas (University of Alicante); Dasaem Jeong (Sogang University)"
+    },
+    {
+      "sourceOrder": 16,
+      "title": "The Debussy Dataset: Evaluating Optical Music Recognition on Modern Staff Notation Manuscripts",
+      "rawAuthors": "Hugo Scheithauer (Inria); Thibault Clérice (Inria); Gonzalo Romero-García (EPITA)"
+    },
+    {
+      "sourceOrder": 17,
+      "title": "VIOLET: High-Fidelity Violin Synthesis with Techniques and Dynamics",
+      "rawAuthors": "Baotong Tian (University of Rochester); Cynthia Lu (University of Rochester); Vincent K.M. Cheung (Sony Computer Science Laboratories); Ting-Kang Wang (National Taiwan University); Jonathan Churchill (Embertone); Zhiyao Duan (University of Rochester)"
+    },
+    {
+      "sourceOrder": 18,
+      "title": "DDSynth-RL: Audio Synthesizer Inversion via Discrete Diffusion with Reinforcement Learning",
+      "rawAuthors": "Tristan WU (Computational Media and Art, The Hong Kong University of Science and Technology (Guangzhou)); Daniel Chin (New York University Shanghai); Junan Zhang (The Chinese University of Hong Kong, Shenzhen); Junyan Jiang (New York University Shanghai); Yansen Jing (Department of Automation, Tsinghua University); Gus Xia (Mohamed bin Zayed University of Artificial Intelligence)"
+    },
+    {
+      "sourceOrder": 19,
+      "title": "H2H Music Improv: A Communication Model and Audio-Visual Dataset for Music Improvisation",
+      "rawAuthors": "Aleksandra Teng Ma (Georgia Institute of Technology); Anthony Cammarota (Georgia Institute of Technology); Jiayi Wang (Georgia Institute of Technology); Alexandria Smith (Georgia Institute of Technology); Cheng-Zhi Anna Huang (Massachusetts Institute of Technology); Jeffrey Albert (Georgia Institute of Technology); Alexander Lerch (Georgia Institute of Technology)"
+    },
+    {
+      "sourceOrder": 20,
+      "title": "CODA: Cascaded Online Discontinuity-Aware Alignment for Real-Time Image-Based Score Following",
+      "rawAuthors": "Yining Yang (Western University); Ruogu Chen (University of Alberta); Jie Han (University of Alberta)"
+    },
+    {
+      "sourceOrder": 21,
+      "title": "Low-Latency Real-Time Automatic Music Transcription with Band-Split RNN and Temporal Lookahead",
+      "rawAuthors": "Yuta Kusaka (Yamaha Corporation); Akira Maezawa (Yamaha Corporation)"
+    },
+    {
+      "sourceOrder": 22,
+      "title": "StemFX: Learning Mixing Style Representations via Autoregressive FX Chain Prediction on Source-Separated Stems",
+      "rawAuthors": "Yuan-Chiao Cheng (Independent Researcher); Jui-Te Wu (Independent Researcher); Brian Chen (Independent Researcher); Yen-Tung Yeh (National Taiwan University); Yu-Hua Chen (National Taiwan University); Yi-Hsuan Yang (National Taiwan University)"
+    },
+    {
+      "sourceOrder": 23,
+      "title": "Improved Robustness in AI-Generated Music Detection",
+      "rawAuthors": "Emile Dugelay (Centrale Lyon); Thomas Barand (Centrale Lyon); Aurélien Laouar (Centrale Lyon); Baptiste Campeas (Centrale Lyon); Darius Afchar (Deezer Research); Romain Hennequin (Deezer Research)"
+    },
+    {
+      "sourceOrder": 24,
+      "title": "Toward Song Exploration Without Listening Through Lyrics-Derived Linguistic Information",
+      "rawAuthors": "Kanako Suzuki (Waseda University); Kosetsu Tsukuda (National Institute of Advanced Industrial Science and Technology (AIST)); Takayuki Nakatsuka (National Institute of Advanced Industrial Science and Technology (AIST)); Kento Watanabe (National Institute of Advanced Industrial Science and Technology (AIST)); Tomoyasu Nakano (National Institute of Advanced Industrial Science and Technology (AIST)); Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST)); Keitaro Tanaka (Waseda Research Institute for Science and Engineering); Shigeo Morishima (Waseda Research Institute for Science and Engineering)"
+    },
+    {
+      "sourceOrder": 25,
+      "title": "Masked Diffusion Enables Coherent Beat Tracking",
+      "rawAuthors": "Francesco Foscarin (Music AI); Filip Korzeniowski (Music AI); Richard Vogl (Music AI)"
+    },
+    {
+      "sourceOrder": 26,
+      "title": "FMANet: Efficient and Lightweight Beat Tracking via Fourier Modulation Attention",
+      "rawAuthors": "Ganghui Ru (Fudan University); Yi Yu (Hiroshima University); Wei Li (Fudan university)"
+    },
+    {
+      "sourceOrder": 27,
+      "title": "Analyzing and Reducing the Synthetic-to-Real Transfer Gap in Music Information Retrieval: The Task of Automatic Drum Transcription",
+      "rawAuthors": "Mickaël Zehren (Umeå University); Marco Alunno (Universidad EAFIT Medellín); Paolo Bientinesi (Umeå University)"
+    },
+    {
+      "sourceOrder": 28,
+      "title": "On the Geometry of Music Bandwidth Extension in Latent Spaces of Audio Codecs",
+      "rawAuthors": "Hendrik Vincent Koops (Universal Music Group); Hao Hao Tan (Universal Music Group); Elio Quinton (Universal Music Group)"
+    },
+    {
+      "sourceOrder": 29,
+      "title": "Steering Dense Music Retrieval With Open-Vocabulary Concept Discovery",
+      "rawAuthors": "Julien Guinot (Queen Mary University of London); Alain Riou (Universal Music Group); Elio Quinton (Universal Music Group); György Fazekas (Queen Mary University of London)"
+    },
+    {
+      "sourceOrder": 30,
+      "title": "Estimating the Reliability of Dynamic Time Warping Alignments Using Circumstantial Evidence",
+      "rawAuthors": "Aanya Pratapneni (Harvey Mudd College); Alice Yuan (Harvey Mudd College); TJ Tsai (Harvey Mudd College)"
+    },
+    {
+      "sourceOrder": 31,
+      "title": "Rethinking Automatic Music Mixing as Sequential Stem Blending",
+      "rawAuthors": "Yen-Tung Yeh (National Taiwan University); Chung-Jui Chan (National Taiwan University); Yun-Ning (Amy) Hung (Moises); Yi-Hsuan Yang (National Taiwan University)"
+    },
+    {
+      "sourceOrder": 32,
+      "title": "TART: A Modular Tool For Technique-Aware Audio-To-Tablature Guitar Transcription",
+      "rawAuthors": "Akshaj Gupta (Berkeley AI Research Lab); Hwi Joo Park (UC Berkeley); Andrea Guzman (UC Berkeley); Shamak Gowda (UC Berkeley); Samhita Konduri (UC Berkeley); Jiachen Lian (UC Berkeley); Robin Netzorg (UC Berkeley); Gopala Anumanchipalli (UC Berkeley)"
+    },
+    {
+      "sourceOrder": 33,
+      "title": "Song Aesthetics Evaluation with Multi-Stem Attention and Hierarchical Uncertainty Modeling",
+      "rawAuthors": "Yishan Lv (Xi'an Jiaotong University); Jing Luo (Xi'an Jiaotong University); Boyuan Ju (Xi'an Jiaotong University); Yang Zhang (Xi'an Jiaotong University); Xinda Wu (Xi'an Jiaotong University); Bo Yuan (Xi'an Jiaotong University); Xinyu Yang (Xi'an Jiaotong University)"
+    },
+    {
+      "sourceOrder": 34,
+      "title": "Exploring the Design Space of Representation Learning for Audio Transformations",
+      "rawAuthors": "Sungho Lee (Seoul National University); Marco A. Martínez-Ramírez (Sony AI); Junghyun Koo (Sony AI); Wei-Hsiang Liao (Sony AI); Kyogu Lee (Seoul National University); Yuki Mitsufuji (Sony AI)"
+    },
+    {
+      "sourceOrder": 35,
+      "title": "PEACE: Joint Embeddings of DSP Effects Code and Audio",
+      "rawAuthors": "David Braun (Princeton University); Adam Finkelstein (Princeton University)"
+    },
+    {
+      "sourceOrder": 36,
+      "title": "Improving Music Source Separation with Diffusion and Consistency Refinement",
+      "rawAuthors": "Tornike Karchkhadze (UC San Diego); Mohammad Rasool Izadi (bose); Shuo Zhang (Bose); Shlomo Dubnov (UC San Diego)"
+    },
+    {
+      "sourceOrder": 37,
+      "title": "UOT-IR: Structured Routing of High-Polyphony Symbolic Music into Fixed-Budget Representations",
+      "rawAuthors": "Ziyue Kang (FIST, Xi'an Jiaotong University;IRC of Frontier Science and Technology, Xi'an Jiaotong University); Nan Nan (FIST, Xi'an Jiaotong University;IRC of Frontier Science and Technology, Xi'an Jiaotong University;MOE KLINNS Lab, Xi'an Jiaotong University); Chenhao Lin (FIST, Xi'an Jiaotong University;IRC of Frontier Science and Technology, Xi'an Jiaotong University;MOE KLINNS Lab, Xi'an Jiaotong University); Xiaohong Guan (Xi'an Jiaotong University; Tsinghua University)"
+    },
+    {
+      "sourceOrder": 38,
+      "title": "On the use of Pre-trained Audio Encoders for Audio-to-Score Music Transcription",
+      "rawAuthors": "Antonio Hidalgo-Centeno (Pattern Recognition and Artificial Intelligence Group, University of Alicante); Carlos Penarrubia (Pattern Recognition and Artificial Intelligence Group, University of Alicante); Jose J. Valero-Mas (Pattern Recognition and Artificial Intelligence Group, University of Alicante)"
+    },
+    {
+      "sourceOrder": 39,
+      "title": "MIDI-LLM: Improving Text-to-MIDI Music Generation via Adapting Large Language Models",
+      "rawAuthors": "Shih-Lun Wu (Massachusetts Institute of Technology); Dave Carlton (Hooktheory); Ryan Miyakawa (Hooktheory); Yoon Kim (Massachusetts Institute of Technology); Chris Donahue (Carnegie Mellon University); Cheng-Zhi Anna Huang (Massachusetts Institute of Technology)"
+    },
+    {
+      "sourceOrder": 40,
+      "title": "Integrating Contextual Embeddings into Evaluation of Expressive MIDI Piano Performances",
+      "rawAuthors": "Dmitrii Gavrilev (Skolkovo Institute of Science and Technology); Ilya Borovik (Skolkovo Institute of Science and Technology); Vladimir Viro (Peachnote)"
+    },
+    {
+      "sourceOrder": 41,
+      "title": "Beat This! Live - Online Beat and Downbeat Tracking by Predicting the Future",
+      "rawAuthors": "Bánk Juhász (Johannes Kepler Universität Linz); Gerhard Widmer (Johannes Kepler Universität Linz); Jan Schlüter (Johannes Kepler Universität Linz)"
+    },
+    {
+      "sourceOrder": 42,
+      "title": "Latent Trace Guidance for Generative Control Without Disentangled Data in Symbolic Melodic Harmonization",
+      "rawAuthors": "Maximos Kaliakatsos-Papakostas (Hellenic Mediterranean University); Dimos Makris (Hellenic Mediterranean University); Konstantinos-Theodoros Tsamis (Hellenic Mediterranean University); Konstantinos Soiledis (Hellenic Mediterranean University); Vassilis Katsouros (Athena Research Centre)"
+    },
+    {
+      "sourceOrder": 43,
+      "title": "LiveBand: Live Accompaniment Generation in the Audio Domain",
+      "rawAuthors": "Marco Pasini (Queen Mary University of London); Javier Nistal (Sony Computer Science Laboratories Paris); Mathias R. Bjare (Johannes Kepler University Linz); Stefan Lattner (Sony Computer Science Laboratories Paris); György Fazekas (Queen Mary University of London)"
+    },
+    {
+      "sourceOrder": 44,
+      "title": "The Internet Archive Music Dataset",
+      "rawAuthors": "Paraskevas Stamatiadis (Telecom Paris); Bernardo V. Miranda (Telecom Paris); Clémentine Berger (Telecom Paris); Gaël Richard (Telecom Paris); Mathieu Fontaine (Telecom Paris); Slim Essid (NVIDIA)"
+    },
+    {
+      "sourceOrder": 45,
+      "title": "Playability-Aware Audio-to-Tablature Guitar Transcription via Diffusion Models",
+      "rawAuthors": "Riccardo Simionato (Universirty of Oslo); Louis Bigo (University of Bordeaux)"
+    },
+    {
+      "sourceOrder": 46,
+      "title": "OudTabs: An Interactive Microtonal Tablature Platform for Cross-Tradition Oud Repertoires",
+      "rawAuthors": "Anıl Tuncel (ETH Zürich)"
+    },
+    {
+      "sourceOrder": 47,
+      "title": "Full-page Recognition of Handwritten Jeongganbo music scores: Dataset and Approach",
+      "rawAuthors": "Carlos Penarrubia (University of Alicante); Danbinaerin Han (KAIST); Dasaem Jeong (Sogang University); Jose J Valero-Mas (University of Alicante)"
+    },
+    {
+      "sourceOrder": 48,
+      "title": "Physiology-Driven Music Retrieval Using Contrastive Learning",
+      "rawAuthors": "Ananth Venkatesh (Kings College London); Elaine Chew (Kings College London)"
+    },
+    {
+      "sourceOrder": 49,
+      "title": "Equivariant Music Transformer",
+      "rawAuthors": "Zixun Guo (Singapore University of Technology and Design); Simon Dixon (Queen Mary University of London)"
+    },
+    {
+      "sourceOrder": 50,
+      "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
+      "rawAuthors": "Drew Edwards (QMUL); Akira Maezawa (Yamaha Corporation); Simon Dixon (QMUL)"
+    },
+    {
+      "sourceOrder": 51,
+      "title": "Recovering Affective Signals in Baroque Opera: A Comparative Evaluation of Human and LLM Annotation",
+      "rawAuthors": "Carlos Vaquero Patricio (ICCMU); Álvaro Torrente (ICCMU)"
+    },
+    {
+      "sourceOrder": 52,
+      "title": "Interpretable Inverse Acoustic Modeling of Percussion via Physics-Guided Spectral Decomposition",
+      "rawAuthors": "Rajeev Rajan (Government Engineering College,Idukki, Kerala); Kevin Benty (APJ Abdul Kalam Technological University, India); Athul Joe Joseph Palliparambil (APJ Abdul Kalam Technological University, India)"
+    },
+    {
+      "sourceOrder": 53,
+      "title": "Do Music Generative Models Understand Musical Qualities? Automatic Music Evaluation with Model-Intrinsic Signals",
+      "rawAuthors": "Xiaosha Li (Georgia Institute of Technology); Chun Liu (ByteDance Inc.); Ziyu Wang (New York University)"
+    },
+    {
+      "sourceOrder": 54,
+      "title": "From Prompting to Describing: A Cross-Cultural Study of Language for AI-Generated Music",
+      "rawAuthors": "Sangheon Park (Georgia Institute of Technology); Claire Arthur (Georgia Institute of Technology)"
+    },
+    {
+      "sourceOrder": 55,
+      "title": "Phase-Based Onset Enhancement for Piano Transcription in Ensemble Settings",
+      "rawAuthors": "Hyemi Kim (KAIST / ETRI); Jiyun Park (KAIST); Juhan Nam (KAIST)"
+    },
+    {
+      "sourceOrder": 56,
+      "title": "Online Music Concerts Leveraging Existing Music Videos: A Case Study on a Music Web Service",
+      "rawAuthors": "Kosetsu Tsukuda (National Institute of Advanced Industrial Science and Technology (AIST)); Keisuke Ishida (National Institute of Advanced Industrial Science and Technology (AIST)); Masahiro Hamasaki (National Institute of Advanced Industrial Science and Technology (AIST)); Masataka Goto (National Institute of Advanced Industrial Science and Technology (AIST))"
+    },
+    {
+      "sourceOrder": 57,
+      "title": "VioLM: A Neural Language Model for Violin Synthesis with Articulation",
+      "rawAuthors": "Sunan Zou (Peking University); Zhe Zhang (National Institute of Informatics); Yigitcan Özer (National Institute of Informatics); Guojie Luo (Peking University); Junichi Yamagishi (National Institute of Informatics)"
+    },
+    {
+      "sourceOrder": 58,
+      "title": "Long, Short, and In Between: Non-Isochronous Models of Timing in Balkan Song Performances",
+      "rawAuthors": "George Sioros (University of Music and Performing Arts Vienna)"
+    },
+    {
+      "sourceOrder": 59,
+      "title": "Genre Bias or Aesthetic Perception? Identifying and Mitigating Shortcut Learning in Music Evaluation",
+      "rawAuthors": "Yizhou Zhang (Kyoto University); Wangjin Zhou (Kyoto University); Yi Zhao (Tencent); Wei Tan (Tencent); Keisuke Imoto (Kyoto University); Zhi Gong (Tencent)"
+    },
+    {
+      "sourceOrder": 60,
+      "title": "End-to-End Motif Discovery for Symbolic Polyphonic Music via Differentiable Label Propagation on Note-Pair Graphs",
+      "rawAuthors": "Raynaldi Lalang (Kyoto University); Kazuyoshi Yoshii (Kyoto University)"
+    },
+    {
+      "sourceOrder": 61,
+      "title": "Gugak-VocalSet: A Multi-Genre Studio-Quality Dataset of Korean Traditional Singing with Sigimsae Annotations",
+      "rawAuthors": "Danbinaerin Han (KAIST); Wonil Kim (Neutune); Seah Hong (National Gugak Center); Dongjoo Moon (Neutune); Jaeok Lee (National Gugak Center); Jongpil Lee (Neutune); Chaewon Kim (National Gugak Center); Juhan Nam (KAIST)"
+    },
+    {
+      "sourceOrder": 62,
+      "title": "Unified Music Identification for Tracks and Versions",
+      "rawAuthors": "R. Oguz Araz (Universitat Pompeu Fabra); Joan Serrà (Sony AI); Yuki Mitsufuji (Sony AI); Xavier Serra (Universitat Pompeu Fabra); Dmitry Bogdanov (Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 63,
+      "title": "Do Music Foundation Models Embed Pitch in Helical Structure?",
+      "rawAuthors": "Hayato Yagi (Keio University); Shinnosuke Takamichi (Keio University/ University of Tokyo); Rin Sato (Waseda University); Keitaro Tanaka (Waseda University); Shigeo Morishima (Waseda University)"
+    },
+    {
+      "sourceOrder": 64,
+      "title": "When AI Annotates First: Measuring Its Impact on Music Score Labeling",
+      "rawAuthors": "Alejandro Galan-Cuenca (University Institute for Computing Research, University of Alicante); Juan P. Martinez-Esteso (University Institute for Computing Research, University of Alicante); Carlos Pérez-Sancho (University Institute for Computing Research, University of Alicante); Francisco J. Castellanos (University Institute for Computing Research, University of Alicante); Antonio Javier Gallego (University Institute for Computing Research, University of Alicante)"
+    },
+    {
+      "sourceOrder": 65,
+      "title": "SymphonyGen: 3D Hierarchical Orchestral Generation with Controllable Harmony Skeleton",
+      "rawAuthors": "Xuzheng He (Central Conservatory of Music); Nan Nan (Xi'an Jiaotong University); Zhilin Wang (University of Science and Technology of China); Ziyue Kang (Xi'an Jiaotong University); Zhuoru Mo (Shenzhen University); Ao Li (Xi'an Jiaotong University); Yu Pan (Central Conservatory of Music); Xiaobing Li (Central Conservatory of Music); Feng Yu (Central Conservatory of Music); Xiaohong Guan (Xi'an Jiaotong University)"
+    },
+    {
+      "sourceOrder": 66,
+      "title": "Music Genre Classification Using Audio and Automatically Transcribed Lyrics",
+      "rawAuthors": "Jun-You Wang (National Taiwan Normal University); Hsuan Yu Chen (National Taiwan Normal University)"
+    },
+    {
+      "sourceOrder": 67,
+      "title": "Revisiting Two-Stage Audio Chord Recognition in the Deep-Learning Era: Leveraging Multi-Pitch Estimation and Symbolic Pretraining",
+      "rawAuthors": "Yiwei Ding (University of Würzburg); Yannik Venohr (University of Würzburg); Sebastian Strahl (International Audio Laboratories Erlangen); Meinard Müller (International Audio Laboratories Erlangen); Christof Weiß (University of Würzburg)"
+    },
+    {
+      "sourceOrder": 68,
+      "title": "BARS: Beat-Adaptive Rap Synthesis via Flow Matching",
+      "rawAuthors": "Taemin Cho (BandLab Technologies); Hector Martel (BandLab Technologies); Enyan Koh (BandLab Technologies)"
+    },
+    {
+      "sourceOrder": 69,
+      "title": "MPEcho: A Melody and Phoneme-Aware Generative Framework for Controllable Cover Song Generation",
+      "rawAuthors": "Wei-Jaw Lee (National Taiwan University); Hsuan-Yu Yeh (National Taiwan University); Ting-Yi Hu (National Taiwan University); Chih-Pin Tan (National Taiwan University); Fang-Duo Tsai (National Taiwan University); Yi-Hsuan Yang (National Taiwan University)"
+    },
+    {
+      "sourceOrder": 70,
+      "title": "What Makes a Good Layer? Assessing the Layer-Wise Intrinsic Properties of Music Foundation Models",
+      "rawAuthors": "Angelos-Nikolaos Kanatas (Music Technology Group, Universitat Pompeu Fabra); Yuexuan Kong (Deezer Research); Pablo Alonso-Jiménez (Music Technology Group, Universitat Pompeu Fabra); Xavier Serra (Music Technology Group, Universitat Pompeu Fabra); Dmitry Bogdanov (Music Technology Group, Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 71,
+      "title": "Musical Emotion under Cochlear Implant Listening: Human Perception and Foundation Model Representations of Human-Composed and AI-Generated Music",
+      "rawAuthors": "Taein Song (KAIST); Hyunjae Kim (KAIST); Kyung Myun Lee (KAIST)"
+    },
+    {
+      "sourceOrder": 72,
+      "title": "Soft Late-Fusion Alignment and Pattern-Based Performance Analysis of Early 20th-Century Solo Flute Music",
+      "rawAuthors": "Patrice Thibaud (Univ. Lille, CNRS, Inria, Centrale Lille, UMR 9189 CRIStAL, F-59000 Lille, France); Louis Bigo (Univ. Bordeaux, CNRS, Bordeaux INP, LaBRI, UMR 5800, F-33400 Talence); Mathieu Giraud (Univ. Lille, CNRS, Inria, Centrale Lille, UMR 9189 CRIStAL, F-59000 Lille, France); Yann Teytaut (Univ. Lille, CNRS, Inria, Centrale Lille, UMR 9189 CRIStAL, F-59000 Lille, France)"
+    },
+    {
+      "sourceOrder": 73,
+      "title": "Robust Instrument-Agnostic Music Transcription for Western Classical Music",
+      "rawAuthors": "Yannik Venohr (University of Würzburg); Christof Weiß (University of Würzburg)"
+    },
+    {
+      "sourceOrder": 74,
+      "title": "Pianoid: 3D Pianist Body Motion Generation from MIDI",
+      "rawAuthors": "Joonhyung Bae (KAIST); Juhan Nam (KAIST)"
+    },
+    {
+      "sourceOrder": 75,
+      "title": "More than words: Genre-Discriminating Lyrical Patterns in Anglophone German Popular Music",
+      "rawAuthors": "Markus Radke (Technische Universität Berlin); Steffen Lepa (Technische Universität Berlin)"
+    },
+    {
+      "sourceOrder": 76,
+      "title": "MEX: The Musical Expectation Benchmark Suite",
+      "rawAuthors": "Mathias Rose Bjare (Johannes Kepler University Linz); Augustin Bouquillard (Max Planck Institute for Empirical Aesthetics); Giorgia Cantisani (Sciences et Technologies de la Musique et du Son, CNRS, IRCAM, Sorbonne Université); Seung-Goo Kim (Max Planck Institute for Empirical Aesthetics); Stefan Lattner (Sony Computer Science Laboratories (CSL), Paris); Gerhard Widmer (Johannes Kepler University Linz)"
+    },
+    {
+      "sourceOrder": 77,
+      "title": "SKY-Piano: A Multimodal Piano Performance Dataset",
+      "rawAuthors": "Joonhyung Bae (KAIST); Dawon Park (Seoul National University); Taegyun Kwon (KAIST); Yoon-Seok Choi (Seoul National University); Hyeon Hur (Seoul National University); Satoshi Obata (YAMAHA); Shigeru Kai (YAMAHA); Yohei Wada (YAMAHA); Yu Takahashi (YAMAHA); Akira Maezawa (YAMAHA); Jaebum Park (Seoul National University); Jonghwa Park (Seoul National University); Juhan Nam (KAIST)"
+    },
+    {
+      "sourceOrder": 78,
+      "title": "CapCyCin: Improving Music Captioning through Cycle-Consistent Music–Text Alignment",
+      "rawAuthors": "Saeyeon Hwang (Department of Data Science, Graduate School of Data Science, Seoul National University); Kyungsu Kim (Department of Intelligence and Information, Graduate School of Convergence Science and Technology, Seoul National University); Kyogu Lee (IPAI, Department of Intelligence and Information, AIIS, Seoul National University)"
+    },
+    {
+      "sourceOrder": 79,
+      "title": "Human Performance in Lyric Topic Classification: Evaluation and Implications",
+      "rawAuthors": "Varvara Papazoglou (University of Sheffield); Robert Gaizauskas (University of Sheffield); Alexandros Stamatiadis (Independent Researcher)"
+    },
+    {
+      "sourceOrder": 80,
+      "title": "CoALa: A Plugin Model for Controlling Audio Latents",
+      "rawAuthors": "Sarah Nabi (IRCAM); Nabarun Goswami (The University of Tokyo); Philippe Esling (IRCAM); Geoffroy Peeters (Telecom Paris); Frédéric Bevilacqua (IRCAM); Tatsuya Harada (The University of Tokyo)"
+    },
+    {
+      "sourceOrder": 81,
+      "title": "MAJEPPA: Morphing and Assessing in a Unified Piano Performance Space",
+      "rawAuthors": "Jinwen Zhou (Queen Mary University of London); Huan Zhang (Queen Mary University of London); Weixi Zhai (Quanzhou Normal University); Jinhua Liang (Queen Mary University of London); Aidan O. T. Hogg (Queen Mary University of London); Simon Dixon (Queen Mary University of London)"
+    },
+    {
+      "sourceOrder": 82,
+      "title": "Beyond Dry References: Learning Relative Audio Effects Representations via Contrastive Distance Learning",
+      "rawAuthors": "Xinlu Liu (Galaxy Audio Effect Team, Tencent Music Entertainment); Huibin Lin (Galaxy Audio Effect Team, Tencent Music Entertainment); Weixing Wei (Independent Researcher); Zhenhai Yan (Galaxy Audio Effect Team, Tencent Music Entertainment)"
+    },
+    {
+      "sourceOrder": 83,
+      "title": "Explore This! Beat and Downbeat Tracking From a Learned Tatum Grid",
+      "rawAuthors": "Robert Kihlborg (KTH); André Holzapfel (KTH); Jan Schlüter (JKU Linz)"
+    },
+    {
+      "sourceOrder": 84,
+      "title": "Stem-Specialized Multi-Gate Mixture-of-Experts for Joint Music Structure Analysis",
+      "rawAuthors": "Aneeka Azmat (Academia Sinica); Li Su (Academia Sinica); ChengHsin Hsu (National Tsing Hua University, Hsinchu City, Taiwan)"
+    },
+    {
+      "sourceOrder": 85,
+      "title": "A Cross-Cultural Dataset of Instrumental Difficulty for Woodwinds and Strings",
+      "rawAuthors": "Rui Yang (Université de Lille); Mathieu Giraud (CNRS, Université de Lille); Florence Levé (Université de Picardie Jules-Verne)"
+    },
+    {
+      "sourceOrder": 86,
+      "title": "Detection of AI-Generated Stems Within Hybrid Human-AI Music",
+      "rawAuthors": "François Rigaud (Deezer Research); Gabriel Meseguer Brocal (Deezer Research); Benjamin Martin (Deezer Research); Romain Hennequin (Deezer Research)"
+    },
+    {
+      "sourceOrder": 87,
+      "title": "Culture-Specific Computational Musicology in Practice: DiArMaqAr (Digital Arabic Maqām Archive)",
+      "rawAuthors": "Khyam Allami (Music Intelligence Lab, American University of Beirut); Ibrahim El Khansa (Music Intelligence Lab, American University of Beiru); Mohammad El Asal (Music Intelligence Lab, American University of Beirut); Joseph Bakarji (Music Intelligence Lab, American University of Beirut)"
+    },
+    {
+      "sourceOrder": 88,
+      "title": "Mitigating Structural Collapse in Multi-Codebook Autoregressive Music Generation via Structure-Aware Scheduled Sampling",
+      "rawAuthors": "Chen Feng Tsai (Academia Sinica); Mi-Yen Yeh (Academia Sinica)"
+    },
+    {
+      "sourceOrder": 89,
+      "title": "From Prediction to Collaboration: Interactive Symbolic Music Analysis",
+      "rawAuthors": "Emmanouil Karystinaios (Johannes Kepler University); Johannes Hentschel (Anton Bruckner University); Markus Neuwirth (Anton Bruckner University); Gerhard Widmer (Johannes Kepler University)"
+    },
+    {
+      "sourceOrder": 90,
+      "title": "Ghost In The Encoder: Decodable Artist Identity Representations In Lyrics-To-Song Generation",
+      "rawAuthors": "Arhan Vohra (Universitat Pompeu Fabra - MTG); Choenden Kyirong (Universitat Pompeu Fabra - MTG); Laura Ibañez (Universitat Pompeu Fabra); Martín Rocamora (Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 91,
+      "title": "A First Benchmark and Metric for Evaluating Polyphony in Symbolic Music using Voice Independence",
+      "rawAuthors": "Eleanor Row (Queen Mary University of London); György Fazekas (Queen Mary University of London)"
+    },
+    {
+      "sourceOrder": 92,
+      "title": "Evaluating Music Context Preservation: A Multi-Facet Framework for Music Editing Systems",
+      "rawAuthors": "Yash Vishe (University of California San Diego); Eric Xue (University of Chicago); Xunyi Jiang (University of California San Diego); Zachary Novack (University of California San Diego); Junda Wu (University of California San Diego); Julian McAuley (University of California San Diego); Xin Xu (University of California San Diego)"
+    },
+    {
+      "sourceOrder": 93,
+      "title": "Learning Music Style for Piano Arrangement Through Cross-Modal Bootstrapping",
+      "rawAuthors": "Jingwei Zhao (Songscription); Gus Xia (MBZUAI); Ziyu Wang (New York University); Ye Wang (National University of Singapore)"
+    },
+    {
+      "sourceOrder": 94,
+      "title": "Smorph: Playable Sound Morphing with Diffusion Models",
+      "rawAuthors": "Annie Chu (Northwestern University); Hugo Flores García (Adobe Inc.); Johannes Imort (Adobe Inc.); Oriol Nieto (Adobe Inc.); Bryan Pardo (Northwestern University); Jordan Rudess (Wizdom Music); Prem Seetharaman (Adobe Inc.); Justin Salamon (Adobe Inc.)"
+    },
+    {
+      "sourceOrder": 95,
+      "title": "Does Notation Matter? MusicXML Tokenisation for Symbolic Music Generation and Understanding",
+      "rawAuthors": "Andrea Poltronieri (Music Technology Group - Universitat Pompeu Fabra); Matteo Spanio (University of Padua); Simone Chieppa (Music Technology Group - Universitat Pompeu Fabra); Xavier Serra (Music Technology Group - Universitat Pompeu Fabra); Martín Rocamora (Music Technology Group - Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 96,
+      "title": "Geometric Iterative Retrieval for Neural Audio Codec Resynthesis",
+      "rawAuthors": "Leo Schmidt-Traub (ETH Zurich); Frederic Berdoz (ETH Zurich); Luca A. Lanzendörfer (ETH Zurich); Roger Wattenhofer (ETH Zurich)"
+    },
+    {
+      "sourceOrder": 97,
+      "title": "Emergent Tonal Structure in Learned Chord Embeddings and Its Relation to Tonal Tension",
+      "rawAuthors": "Maral Ebrahimzadeh (Otto-von-Guericke-University Magdeburg); Gilberto Bernardes (University of Porto); Sebastian Stober (Otto-von-Guericke-University Magdeburg)"
+    },
+    {
+      "sourceOrder": 98,
+      "title": "MambaVoice: Lightweight Audiovisual Singing Voice Separation via a Hybrid Mamba-Transformer Model",
+      "rawAuthors": "Adithi Shankar (Music Technology Group- Universitat Pompeu Fabra); Gopika Krishnan (Universitat Pompeu Fabra); Gloria Haro (Intelligent Multimodal Vision Analysis Group,Universitat Pompeu Fabra); Xavier Serra (Music Technology Group, Universitat Pompeu Fabra); Martín Rocamora (Music Technology Group, Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 99,
+      "title": "Harmonic Representations in Symbolic Music Transformers are Localized and Controllable",
+      "rawAuthors": "Adi Silberschein (Weizmann Institute); Megan Wei (Brown University); Tamar Rott Shaham (Massachusetts Institute of Technology)"
+    },
+    {
+      "sourceOrder": 100,
+      "title": "AllMusicCaps: Album Reviews as Complementary Supervision for Music CLAP",
+      "rawAuthors": "Pablo Alonso-Jiménez (Universitat Pompeu Fabra); Xavier Lizarraga-Seijas (Universitat Pompeu Fabra); Xavier Serra (Universitat Pompeu Fabra); Dmitry Bogdanov (Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 101,
+      "title": "Comparing Compression-Based Models of Similarity in Jazz Harmonic Progressions",
+      "rawAuthors": "Xinyi Guan (EPFL); Edward T. R. Hall (EPFL); Zeng Ren (EPFL); Marina Borsodi-Benson (EPFL); Claire Pelofi (NYU); Martin Rohrmeier (EPFL)"
+    },
+    {
+      "sourceOrder": 102,
+      "title": "Exploring Musical Taste : Analyzing User Content Preferences through Attention Mechanisms",
+      "rawAuthors": "Yan-Martin Tamm (University of Tartu); Anna Aljanaki (University of Tartu)"
+    },
+    {
+      "sourceOrder": 103,
+      "title": "Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?",
+      "rawAuthors": "Qixin Deng (Northwestern University); Bryan Pardo (Northwestern University); Thrasyvoulos N. Pappas (Northwestern University)"
+    },
+    {
+      "sourceOrder": 104,
+      "title": "RNGen: A Large Language Model Approach to Roman Numeral Analysis Toward Explainable Harmonic Analysis",
+      "rawAuthors": "Hewei Gao (Technical University of Denmark); Tim Beyer (Technical University of Munich); Xiaoxuan Wang (École Polytechnique Fédérale de Lausanne); Martin Rohrmeier (École Polytechnique Fédérale de Lausanne)"
+    },
+    {
+      "sourceOrder": 105,
+      "title": "AudioCodex: Streaming Autoencoders for Live Audio",
+      "rawAuthors": "Marco Pasini (Queen Mary University of London); Javier Nistal (Sony Computer Science Laboratories Paris); Cyran Aouameur (Sony Computer Science Laboratories Paris); Stefan Lattner (Sony Computer Science Laboratories Paris); György Fazekas (Queen Mary University of London)"
+    },
+    {
+      "sourceOrder": 106,
+      "title": "Assessing Factual Music Comprehension in Large Audio Language Models",
+      "rawAuthors": "Daniel Chenyu Lin (Cornell University); Michael Freeman (Cornell University); John Thickstun (Cornell University)"
+    },
+    {
+      "sourceOrder": 107,
+      "title": "Learning to Predict Performance-induced Emotion Differences in Classical Piano Music",
+      "rawAuthors": "Joann Ching (Johannes Kepler University); Gerhard Widmer (Johannes Kepler University Linz)"
+    },
+    {
+      "sourceOrder": 108,
+      "title": "An Open Corpus for Arabic Maqam Recognition",
+      "rawAuthors": "Peter Traver (New York University); Layth Sidiq (NYU Abu Dhabi); Robert Rowe (New York University); Andrew J. Eisenberg (NYU Abu Dhabi)"
+    },
+    {
+      "sourceOrder": 109,
+      "title": "Spacing Out: On the Reliability of Binaural Music Source Separation Metrics",
+      "rawAuthors": "Richa Namballa (New York University); Magdalena Fuentes (New York University)"
+    },
+    {
+      "sourceOrder": 110,
+      "title": "Diff2Mix: Controllable Music Mixing via Diffusion Models and Differentiable Audio Effects",
+      "rawAuthors": "Yisu Zong (Queen Mary University of London); Jinjie Shi (Queen Mary University of London); Joshua Reiss (Queen Mary University of London)"
+    },
+    {
+      "sourceOrder": 111,
+      "title": "Cyclic Attractors in Iterated LLM-Based Symbolic Music Style Transfer",
+      "rawAuthors": "Jiarui Li (University of Edinburgh); Mark Liberman (University of Pennsylvania)"
+    },
+    {
+      "sourceOrder": 112,
+      "title": "Live Music Denoising with Authentic Live Data and Track-Editing-Guided Semi-Supervised Learning",
+      "rawAuthors": "Penghao He (College of Computer Science and Artificial Intelligence, Fudan University); Xiankexin Luo (College of Computer Science and Artificial Intelligence, Fudan University); Wei Li (College of Computer Science and Artificial Intelligence, Fudan University)"
+    },
+    {
+      "sourceOrder": 113,
+      "title": "MixWeaver: Stem-Aware Automatic DJ Transition Generation via Structured Discrete Optimization",
+      "rawAuthors": "Xuran Zhou (University of California San Diego); Xunyi Jiang (University of California San Diego); Churan Zhi (University of California San Diego); Junda Wu (University of California San Diego); Julian McAuley (University of California San Diego)"
+    },
+    {
+      "sourceOrder": 114,
+      "title": "Beyond Piano: Cross-Instrument MIDI Velocity Estimation via Differentiable SoundFont Proxies",
+      "rawAuthors": "Zhanhong He (University of Western Australia); Hanyu Meng (University of New South Wales); David (Defeng) Huang (University of Western Australia); Roberto Togneri (University of Western Australia)"
+    },
+    {
+      "sourceOrder": 115,
+      "title": "Local Multimodal Music Alignment from Global Supervision",
+      "rawAuthors": "Irmak Bukey (Carnegie Mellon University); Zachary Novack (University of California San Diego); Jongmin Jung (Neutune); Dasaem Jeong (Sogang University); Chris Donahue (Carnegie Mellon University)"
+    },
+    {
+      "sourceOrder": 116,
+      "title": "Adapting Music Foundation Models to Iranian Classical Music",
+      "rawAuthors": "Pouya Mohseni (McGill University); Bagher BabaAli (University of Tehran); Ichiro Fujinaga (McGill University)"
+    },
+    {
+      "sourceOrder": 117,
+      "title": "GlobalTap: Globally Diverse Beat Tracking Benchmark via Crowdsourced Tapping",
+      "rawAuthors": "William T. Botticelli-Wells (Cornell University); Manuel Anglada-Tort (Goldsmiths, University of London); Elif Celen (Max Planck Institute for Empirical Aesthetics); Rena Far (University of Toronto); Harin Lee (University of Cambridge); Peter M. C. Harrison (University of Cambridge); Nori Jacoby (Cornell University)"
+    },
+    {
+      "sourceOrder": 118,
+      "title": "SmartLooper: a Framework for Personalized Human-AI Musical Improvisation",
+      "rawAuthors": "Finlay Miller (Dalhousie University); Sageev Oore (Dalhousie University); Chandramouli Sastry (Dalhousie University); Marvin da Silva (Dalhousie University); Sri Harsha Dumpala (Dalhousie University); Dani Oore (Independent); Scott Lowe (Vector Institute)"
+    },
+    {
+      "sourceOrder": 119,
+      "title": "Digital Existence as Ontological Intervention: Backstage Networks in Postwar Taiwanese Popular Music",
+      "rawAuthors": "Ming Cheng (Academia Sinica); Yung-Chuan Chang (Academia Sinica); Chien-Chang Yang (National Taiwan University); Li Su (Academia Sinica)"
+    },
+    {
+      "sourceOrder": 120,
+      "title": "D-Composer: Language Modeling for Simultaneous Drum Transcription and Sound Event Decomposition",
+      "rawAuthors": "Patrick O'Reilly (Northwestern University); Saumya Pailwan (Northwestern University); Annie Chu (Northwestern University); Jason Smith (Northwestern University); Bryan Pardo (Northwestern University)"
+    },
+    {
+      "sourceOrder": 121,
+      "title": "Musicologically Interpretable Deep Learning Framework for Arabic Maqam Identification and Analysis",
+      "rawAuthors": "Joseph Bakarji (American University of Beirut); Khyam Allami (American University of Beirut); Mohammad El Asal (American University of Beirut); Dany Abou Jaoude (American University of Beirut)"
+    },
+    {
+      "sourceOrder": 122,
+      "title": "SymSkill: Skill Graph for Symbolic Music Understanding",
+      "rawAuthors": "Junda Wu (University of California, San Diego); Boyang Wang (University of California, San Diego); Xunyi Jiang (University of California, San Diego); Aditya Yadavalli (University of California, San Diego); Ziyu Wang (New York University); Qianqi Yan (University of California, Santa Barbara); Hongyi Wen (New York University); Julian McAuley (University of California, San Diego)"
+    },
+    {
+      "sourceOrder": 123,
+      "title": "Frame-Level Pansori Mode Classification with Complementary Audio Representations",
+      "rawAuthors": "Sangheon Park (Georgia Institute of Technology); Seonguk Ju (Sogang University); Suin Chung (Sogang University); Danbinaerin Han (KAIST); Dasaem Jeong (Sogang University)"
+    },
+    {
+      "sourceOrder": 124,
+      "title": "Pitch Contour Tokenization using VQ-VAE and Its Application on Korean Traditional Music Analysis",
+      "rawAuthors": "Seonguk Ju (Department of Artificial Intelligence, Sogang University); Seola Cho (Department of Artificial Intelligence, Sogang University); Suin Chung (Sogang University); Danbinaerin Han (KAIST); Dasaem Jeong (Department of Art & Technology Sogang University)"
+    },
+    {
+      "sourceOrder": 125,
+      "title": "Inferring Implied Harmonies through Voice Leading in Monophonic Instrumental Music Using Graph-Based Methods",
+      "rawAuthors": "Marina Borsodi-Benson (EPFL); Martin Rohrmeier (EPFL)"
+    },
+    {
+      "sourceOrder": 126,
+      "title": "VioTech: Frame-Level Violin Playing Technique Detection with Multi-Scale Mixture-of-Experts",
+      "rawAuthors": "Ting-Kang Wang (Academia Sinica); Vincent K.M. Cheung (Sony Computer Science Laboratories, Inc.); Nan-Tien Lai (National Taiwan University); Li Su (Academia Sinica)"
+    },
+    {
+      "sourceOrder": 127,
+      "title": "STRAdi: Real-Time Violin Transcription for Score Following",
+      "rawAuthors": "Sein Lee (KAIST); Jiyun Park (KAIST); Juhan Nam (KAIST)"
+    },
+    {
+      "sourceOrder": 128,
+      "title": "Measuring Cross-Cultural Style Diffusion Through Era Classification: US and Korean Popular Music",
+      "rawAuthors": "Dasol Lee (Sogang University); Minhee Lee (KAIST); Seonguk Ju (Sogang University); Daewoong Kim (Sogang University); Harin Lee (University of Cambridge); Dasaem Jeong (Sogang University)"
+    },
+    {
+      "sourceOrder": 129,
+      "title": "Separate-and-Detect: Unified Drum Transcription and Stem Generation via Latent Diffusion",
+      "rawAuthors": "Wei-Han Hsu (Data Science Degree Program, National Taiwan University and Academia Sinica, Taipei, Taiwan); Chih-Cheng Chang (Institute of Information Science, Academia Sinica, Taiwan); Bo-Yu Chen (Rhythm Culture Corporation); Li Su (Institute of Information Science, Academia Sinica, Taiwan); Yi-Hsuan Yang (Graduate Institute of Communication Engineering, National Taiwan University, Taiwan)"
+    },
+    {
+      "sourceOrder": 130,
+      "title": "How Much AI Is in This Track? Quantifying the Proportion of AI-Generated Stems in Hybrid Music Mixtures",
+      "rawAuthors": "Fernando Garcia de la Cruz (Universitat Pompeu Fabra); David López-Ayala (Universitat Pompeu Fabra); Pablo Zinemanas (BMAT Music Innovators); Emilio Molina (BMAT Music Innovators); Martín Rocamora (Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 131,
+      "title": "Measure for Measure: Reliable Evaluation and a New State of the Art for Full-Page Optical Music Recognition",
+      "rawAuthors": "Tobias Hornbogen (Hasso-Plattner-Institute); Josef Valentin (Hasso-Plattner-Institute)"
+    },
+    {
+      "sourceOrder": 132,
+      "title": "Understanding Automatic Mixing: A Subtask-Oriented Analysis of Two-Stage Mixing System",
+      "rawAuthors": "Jinjie Shi (Queen Mary University of London); Wei Hua (Guangxi Arts University); Kunzhu Xie (Wuhan University of Communications); Make Li (Xinghai Conservatory of Music); Yuchen Liu (University College London); Joshua Reiss (Queen Mary University of London)"
+    },
+    {
+      "sourceOrder": 133,
+      "title": "Vocal Music under Phoneme-Conditional Analysis",
+      "rawAuthors": "Hayoon Kim (Seoul National University); Kyogu Lee (Seoul National University)"
+    },
+    {
+      "sourceOrder": 134,
+      "title": "Music Restoration via Latent Operator Optimization and Diffusion Model Priors",
+      "rawAuthors": "Michal Švento (Brno University of Technology); Eloi Moliner (Aalto University); Valtteri Kallinen (Aalto University); Lauri Juvela (Aalto University); Vesa Välimäki (Aalto University); Pavel Rajmic (Brno University of Technology)"
+    },
+    {
+      "sourceOrder": 135,
+      "title": "Music Inpainting with Similarity-Guided Latent Diffusion",
+      "rawAuthors": "Sean Turland (University of Edinburgh); Eloi Moliner (Aalto University); Vesa Välimäki (Aalto University)"
+    },
+    {
+      "sourceOrder": 136,
+      "title": "MetaMatch: Reconciling Metadata for Aggregating Music Difficulty Annotations",
+      "rawAuthors": "Megan E. Finch (Durham); Chris G. Willcocks (Durham); Mark R. H. Gotham (KCL)"
+    },
+    {
+      "sourceOrder": 137,
+      "title": "I Just Kept Clicking Until It Hit: Exploring Virtual Instrument Search behavior and Challenges Across User Groups",
+      "rawAuthors": "Subeen Kim (Seoul National University); Eunsik Shin (Seoul National University); Woojae Cho (Seoul National University); Kyogu Lee (Seoul National University)"
+    },
+    {
+      "sourceOrder": 138,
+      "title": "Real-Time Interactive Music Generation via Training-Data-Free Streaming Consistency Distillation",
+      "rawAuthors": "Baisen Wang (Institute of Information Engineering, Chinese Academy of Sciences); Chenxi Bao (DynamiX); Qisong Han (Cardiff University)"
+    },
+    {
+      "sourceOrder": 139,
+      "title": "Assessing AI-Generated Music Detection in Real-World Broadcast Monitoring",
+      "rawAuthors": "David López-Ayala (Universitat Pompeu Fabra); Fernando Garcia de la Cruz (Universitat Pompeu Fabra); Pablo Zinemanas (BMAT Music Innovators); Emilio Molina (BMAT Music Innovators); Martín Rocamora (Universitat Pompeu Fabra)"
+    },
+    {
+      "sourceOrder": 140,
+      "title": "InvFlowFD: Reference-Free and Background-Set-Free Perceptual Music Quality Metric with Flow Matching Inversion",
+      "rawAuthors": "Alon Ziv (The Hebrew University of Jerusalem); Harel Pogoda (The Hebrew University of Jerusalem); Yossi Adi (The Hebrew University of Jerusalem)"
+    }
+  ]
+}
