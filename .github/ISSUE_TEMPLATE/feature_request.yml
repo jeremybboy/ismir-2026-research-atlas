@@ -1,0 +1,25 @@
+name: Feature request
+description: Propose a focused improvement without expanding the project's interpretive claims.
+title: "[Feature]: "
+labels: ["type:enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Navigation problem
+      description: What research-navigation task is difficult today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: Methodology and accessibility impact
+      description: Explain whether the change affects interpretive claims, keyboard use, or mobile behavior.
+    validations:
+      required: true

@@ -1,0 +1,24 @@
+name: Data correction
+description: Report an error in a title, author, affiliation, source link, or editorial classification.
+title: "[Data]: "
+labels: ["type:data"]
+body:
+  - type: input
+    id: paper
+    attributes:
+      label: Paper title
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+      description: Separate source metadata facts from editorial topic or tag proposals.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Primary-source URL
+    validations:
+      required: true

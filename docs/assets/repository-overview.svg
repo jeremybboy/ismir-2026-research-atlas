@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Planned ISMIR 2026 Research Atlas journey</title>
+  <desc id="desc">Official accepted-paper metadata flows through a reviewed local snapshot and title-derived editorial interpretation into a stable two-dimensional map, paper details, guided trails, and a local reading queue.</desc>
+  <rect width="1200" height="520" fill="#f5f4ef"/>
+  <style>
+    text { fill:#171918; font-family:Arial,Helvetica,sans-serif }
+    .eyebrow { font-size:16px; font-weight:700; letter-spacing:1.4px }
+    .title { font-size:34px; font-weight:700 }
+    .stage { font-size:21px; font-weight:700 }
+    .body { font-size:16px; fill:#4d5452 }
+    .meta { font-size:14px; font-weight:700; letter-spacing:.8px }
+    .line { stroke:#2f3533; stroke-width:2; fill:none }
+  </style>
+  <text class="eyebrow" x="56" y="54">PLANNED USER JOURNEY</text>
+  <text class="title" x="56" y="94">From official titles to an explorable research atlas</text>
+  <path class="line" d="M225 260H270M465 260H510M705 260H750M945 260H990"/>
+  <path d="M260 252l12 8-12 8" fill="#2f3533"/>
+  <path d="M500 252l12 8-12 8" fill="#2f3533"/>
+  <path d="M740 252l12 8-12 8" fill="#2f3533"/>
+  <path d="M980 252l12 8-12 8" fill="#2f3533"/>
+  <g transform="translate(56 154)">
+    <rect width="169" height="212" fill="#d8e5e3" stroke="#1d777e" stroke-width="3"/>
+    <text class="meta" x="18" y="32">01 · SOURCE</text>
+    <text class="stage" x="18" y="72">Official list</text>
+    <path d="M18 98h132M18 118h98M18 138h116" stroke="#1d777e" stroke-width="8"/>
+    <text class="body" x="18" y="178">Titles, authors,</text>
+    <text class="body" x="18" y="199">affiliations</text>
+  </g>
+  <g transform="translate(270 132)">
+    <rect width="195" height="256" fill="#fffdf7" stroke="#303735" stroke-width="3"/>
+    <text class="meta" x="18" y="32">02 · REVIEW</text>
+    <text class="stage" x="18" y="72">Local snapshot</text>
+    <rect x="18" y="96" width="159" height="72" fill="#ebe9df"/>
+    <path d="M34 116h126M34 136h102M34 156h118" stroke="#6b716f" stroke-width="5"/>
+    <text class="body" x="18" y="205">No runtime scrape.</text>
+    <text class="body" x="18" y="228">Discrepancies stay</text>
+    <text class="body" x="18" y="249">visible.</text>
+  </g>
+  <g transform="translate(510 112)">
+    <rect width="195" height="296" fill="#efe5d0" stroke="#987111" stroke-width="3"/>
+    <text class="meta" x="18" y="32">03 · INTERPRET</text>
+    <text class="stage" x="18" y="72">Five regions</text>
+    <rect x="18" y="96" width="24" height="24" fill="#1d777e"/>
+    <rect x="50" y="96" width="24" height="24" fill="#bd4d37"/>
+    <rect x="82" y="96" width="24" height="24" fill="#6357ad"/>
+    <rect x="114" y="96" width="24" height="24" fill="#987111"/>
+    <rect x="146" y="96" width="24" height="24" fill="#44754d"/>
+    <text class="body" x="18" y="160">One primary region;</text>
+    <text class="body" x="18" y="183">multiple concept tags.</text>
+    <text class="body" x="18" y="224">Title-derived,</text>
+    <text class="body" x="18" y="247">schematic, editorial.</text>
+  </g>
+  <g transform="translate(750 132)">
+    <rect width="195" height="256" fill="#e7e3f2" stroke="#6357ad" stroke-width="3"/>
+    <text class="meta" x="18" y="32">04 · EXPLORE</text>
+    <text class="stage" x="18" y="72">Stable 2D map</text>
+    <g fill="#6357ad">
+      <rect x="24" y="103" width="12" height="12"/><rect x="53" y="93" width="12" height="12"/><rect x="82" y="120" width="12" height="12"/><rect x="111" y="99" width="12" height="12"/><rect x="140" y="126" width="12" height="12"/>
+      <rect x="37" y="143" width="12" height="12"/><rect x="69" y="155" width="12" height="12"/><rect x="104" y="146" width="12" height="12"/><rect x="151" y="164" width="12" height="12"/>
+    </g>
+    <text class="body" x="18" y="210">Filter, search, select,</text>
+    <text class="body" x="18" y="233">and share state.</text>
+  </g>
+  <g transform="translate(990 154)">
+    <rect width="154" height="212" fill="#dce9de" stroke="#44754d" stroke-width="3"/>
+    <text class="meta" x="18" y="32">05 · KEEP</text>
+    <text class="stage" x="18" y="72">Reading path</text>
+    <path d="M24 108h104M24 132h78M24 156h91" stroke="#44754d" stroke-width="7"/>
+    <text class="body" x="18" y="190">Trails + queue</text>
+  </g>
+  <path d="M56 458H1144" stroke="#c7c9c4"/>
+  <text class="body" x="56" y="490">Interpretation is explicit: positions and links do not claim measured semantic distance, citation, collaboration, or influence.</text>
+</svg>

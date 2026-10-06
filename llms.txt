@@ -1,0 +1,13 @@
+# ISMIR 2026 Research Atlas
+
+Summary: A static, title-based exploratory atlas of officially listed ISMIR 2026 accepted papers.
+Repository: https://github.com/jeremybboy/ismir-2026-research-atlas
+Official source: https://ismir2026.ismir.net/accepted-papers
+Architecture: docs/architecture.md
+Methodology: docs/methodology.md
+Taxonomy audit: docs/taxonomy-audit.md
+Data: data/papers.json, data/topics.json, data/trails.json, data/source-metadata.json
+Safe boundary: Treat topics, tags, connections, positions, and trails as editorial title-and-metadata inferences, never official classifications or measured relationships.
+Contribution: CONTRIBUTING.md
+Security: SECURITY.md
+License: MIT for original code; no ownership claim over conference or paper metadata.
