@@ -1,15 +1,16 @@
 import { select } from 'd3';
 
-const CENTERS = [
-  [175, 150],
-  [480, 130],
-  [345, 320],
-  [170, 455],
-  [690, 425],
-];
+export const REGION_CENTERS = Object.freeze({
+  'transcription-analysis': Object.freeze([185, 150]),
+  'generation-collaboration': Object.freeze([705, 145]),
+  'representations-discovery': Object.freeze([440, 300]),
+  'production-transformation': Object.freeze([200, 455]),
+  'evaluation-culture': Object.freeze([685, 430]),
+});
+
+const DEFAULT_PREVIEW = 'Focus or select a point to reveal its full title.';
 
 export function deterministicLayout(papers, topics, isolatedTopic = 'all') {
-  const topicIndex = new Map(topics.map((topic, index) => [topic.id, index]));
   const groups = new Map(topics.map((topic) => [topic.id, []]));
   papers.forEach((paper) => groups.get(paper.primaryTopic)?.push(paper));
   const positions = new Map();
@@ -18,7 +19,7 @@ export function deterministicLayout(papers, topics, isolatedTopic = 'all') {
     group.sort((a, b) => a.id.localeCompare(b.id));
     const isolated = isolatedTopic !== 'all';
     if (isolated && topicId !== isolatedTopic) return;
-    const center = isolated ? [450, 280] : CENTERS[topicIndex.get(topicId)];
+    const center = isolated ? [450, 280] : REGION_CENTERS[topicId];
     const columns = Math.ceil(Math.sqrt(group.length));
     const spacing = isolated ? 34 : 22;
     const rows = Math.ceil(group.length / columns);
@@ -50,6 +51,7 @@ export function renderMap({ svg, papers, topics, selectedPaper, related, activeT
   const layout = deterministicLayout(papers, topics, activeTopic);
   const relatedIds = new Set(related.map(({ paper }) => paper.id));
   const selectedPosition = selectedPaper ? layout.get(selectedPaper.id) : null;
+  const selectedTitle = selectedPaper?.title ?? DEFAULT_PREVIEW;
   const visiblePapers = papers.filter((paper) => layout.has(paper.id));
   const duration = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 160;
   const root = select(svg);
@@ -58,8 +60,7 @@ export function renderMap({ svg, papers, topics, selectedPaper, related, activeT
   const pointLayer = root.selectAll('g.map-points').data([null]).join('g').attr('class', 'map-points');
 
   const labelData = topics.filter((topic) => activeTopic === 'all' || topic.id === activeTopic).map((topic) => {
-    const index = topics.findIndex(({ id }) => id === topic.id);
-    const [x, y] = activeTopic === 'all' ? CENTERS[index] : [450, 82];
+    const [x, y] = activeTopic === 'all' ? REGION_CENTERS[topic.id] : [450, 82];
     return {
       ...topic,
       x,
@@ -90,6 +91,7 @@ export function renderMap({ svg, papers, topics, selectedPaper, related, activeT
     (update) => update,
     (exit) => exit.remove(),
   );
+  preview(selectedTitle);
   points
     .attr('class', (paper) => `paper-point${selectedPaper?.id === paper.id ? ' is-selected' : ''}${relatedIds.has(paper.id) ? ' is-related' : ''}`)
     .attr('tabindex', 0)
@@ -110,8 +112,8 @@ export function renderMap({ svg, papers, topics, selectedPaper, related, activeT
     })
     .on('pointerenter', (_, paper) => preview(paper.title))
     .on('focus', (_, paper) => preview(paper.title))
-    .on('pointerleave', () => preview('Focus or select a point to reveal its full title.'))
-    .on('blur', () => preview('Focus or select a point to reveal its full title.'))
+    .on('pointerleave', () => preview(selectedTitle))
+    .on('blur', () => preview(selectedTitle))
     .transition().duration(duration).attr('opacity', 1).attr('transform', (paper) => {
       const point = layout.get(paper.id);
       return `translate(${point.x} ${point.y})`;
