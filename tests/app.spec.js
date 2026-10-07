@@ -6,6 +6,7 @@ test.beforeEach(async ({ page }) => {
 });
 
 test('map, search, topic, selection, and URL state stay synchronized', async ({ page }) => {
+  await expect(page.getByRole('heading', { level: 1, name: 'ISMIR 2026 Paper Explorer' })).toBeVisible();
   await expect(page.locator('.paper-point')).toHaveCount(140);
   await page.getByLabel('Search papers').fill('OudTabs');
   await expect(page.locator('.paper-point')).toHaveCount(1);
@@ -19,6 +20,26 @@ test('map, search, topic, selection, and URL state stay synchronized', async ({ 
   await page.keyboard.press('Enter');
   await expect(page).toHaveURL(/#.*paper=/);
   await expect(page.locator('#detail-title')).not.toBeEmpty();
+});
+
+test('map caption previews a point then returns to the selected paper', async ({ page }) => {
+  const points = page.locator('.paper-point');
+  const selectedPoint = points.nth(1);
+  await selectedPoint.click();
+  const selectedTitle = await page.locator('#detail-title').textContent();
+  await expect(page.locator('#map-title-preview')).toHaveText(selectedTitle);
+
+  const previewPoint = points.nth(2);
+  const previewTitle = (await previewPoint.getAttribute('aria-label')).replace('Select paper: ', '');
+  await previewPoint.hover();
+  await expect(page.locator('#map-title-preview')).toHaveText(previewTitle);
+  await page.locator('#map-heading').hover();
+  await expect(page.locator('#map-title-preview')).toHaveText(selectedTitle);
+
+  await previewPoint.focus();
+  await expect(page.locator('#map-title-preview')).toHaveText(previewTitle);
+  await page.getByLabel('Search papers').focus();
+  await expect(page.locator('#map-title-preview')).toHaveText(selectedTitle);
 });
 
 test('curated trails expose navigation and play controls', async ({ page }) => {

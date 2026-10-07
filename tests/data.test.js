@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import test from 'node:test';
 import { filterPapers, findRelatedPapers } from '../src/data.js';
-import { deterministicLayout } from '../src/map.js';
+import { deterministicLayout, REGION_CENTERS } from '../src/map.js';
 
 const readJson = async (name) => JSON.parse(await readFile(new URL(`../data/${name}.json`, import.meta.url), 'utf8'));
 const [papers, topics] = await Promise.all([readJson('papers'), readJson('topics')]);
@@ -34,4 +34,17 @@ test('layout is deterministic and isolates topics', () => {
   assert.deepEqual(first, second);
   const isolated = deterministicLayout(papers, topics, 'generation-collaboration');
   assert.ok([...isolated.keys()].every((id) => papers.find((paper) => paper.id === id).primaryTopic === 'generation-collaboration'));
+});
+
+test('region centers form a stable five-part editorial field', () => {
+  const transcription = REGION_CENTERS['transcription-analysis'];
+  const generation = REGION_CENTERS['generation-collaboration'];
+  const representations = REGION_CENTERS['representations-discovery'];
+  const production = REGION_CENTERS['production-transformation'];
+  const evaluation = REGION_CENTERS['evaluation-culture'];
+
+  assert.ok(transcription[0] < representations[0] && transcription[1] < representations[1]);
+  assert.ok(generation[0] > representations[0] && generation[1] < representations[1]);
+  assert.ok(production[0] < representations[0] && production[1] > representations[1]);
+  assert.ok(evaluation[0] > representations[0] && evaluation[1] > representations[1]);
 });
