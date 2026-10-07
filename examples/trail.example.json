@@ -1,0 +1,7 @@
+{
+  "id": "example-curated-trail",
+  "title": "Example curated trail",
+  "premise": "A short editorial premise grounded in titles and metadata.",
+  "editorialBasis": "curated-title-and-metadata-exploration",
+  "paperIds": ["first-paper-id", "second-paper-id", "third-paper-id"]
+}

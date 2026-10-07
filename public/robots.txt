@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeremybboy.github.io/ismir-2026-research-atlas/sitemap.xml

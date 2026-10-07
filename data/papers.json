@@ -1,0 +1,4460 @@
+[
+  {
+    "id": "off-manifold-robustness-in-synthesizer-inversion-with-joint-distribution-flow-matching",
+    "sourceOrder": 1,
+    "title": "Off-Manifold Robustness in Synthesizer Inversion with Joint Distribution Flow Matching",
+    "authors": [
+      {
+        "name": "Ben Hayes",
+        "affiliation": "Sony Computer Science Laboratories Paris"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "synthesis"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "fusid-modality-fused-semantic-ids-for-generative-music-recommendation",
+    "sourceOrder": 2,
+    "title": "FusID: Modality-Fused Semantic IDs for Generative Music Recommendation",
+    "authors": [
+      {
+        "name": "Haven Kim",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Yupeng Hou",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Julian McAuley",
+        "affiliation": "University of California San Diego"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "generation",
+      "retrieval-discovery"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "dual-time-representation-framework-for-interactive-music-transcription",
+    "sourceOrder": 3,
+    "title": "Dual-Time Representation Framework for Interactive Music Transcription",
+    "authors": [
+      {
+        "name": "Yu Sugimoto",
+        "affiliation": "Kyushu University"
+      },
+      {
+        "name": "Ryo Nishikimi",
+        "affiliation": "NTT Communication Science Laboratories"
+      },
+      {
+        "name": "Eita Nakamura",
+        "affiliation": "Kyushu University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription",
+      "human-ai",
+      "representation-learning"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "tutti-toward-generalizable-audio-to-score-transcription-via-fully-synthesized-data",
+    "sourceOrder": 4,
+    "title": "TUTTI: Toward generalizable audio-to-score transcription via fully synthesized data",
+    "authors": [
+      {
+        "name": "Jianhuai Hu",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Yashan Wang",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Shangda Wu",
+        "affiliation": "Independent Researcher"
+      },
+      {
+        "name": "Zhancheng Guo",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Shijie Liang",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Wuna Meng",
+        "affiliation": "Wuhan Conservatory of Music"
+      },
+      {
+        "name": "Chuanqi Yang",
+        "affiliation": "Shanghai Conservatory of Music"
+      },
+      {
+        "name": "Xiaobing Li",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Feng Yu",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Maosong Sun",
+        "affiliation": "TsingHua University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription",
+      "scores-notation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "streaming-generation-for-music-accompaniment",
+    "sourceOrder": 5,
+    "title": "Streaming Generation for Music Accompaniment",
+    "authors": [
+      {
+        "name": "Yusong Wu",
+        "affiliation": "University of Montreal, Mila"
+      },
+      {
+        "name": "Mason Wang",
+        "affiliation": "MIT"
+      },
+      {
+        "name": "Heidi Lei",
+        "affiliation": "MIT"
+      },
+      {
+        "name": "Stephen Brade",
+        "affiliation": "MIT"
+      },
+      {
+        "name": "Lancelot Blanchard",
+        "affiliation": "MIT"
+      },
+      {
+        "name": "Shih-Lun Wu",
+        "affiliation": "MIT"
+      },
+      {
+        "name": "Aaron Courville",
+        "affiliation": "University of Montreal, Mila"
+      },
+      {
+        "name": "Anna Huang",
+        "affiliation": "MIT"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "real-time",
+      "generation",
+      "accompaniment-improvisation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "learning-to-sing-with-your-own-voice-designing-and-evaluating-generative-ai-assisted-voc",
+    "sourceOrder": 6,
+    "title": "Learning to Sing with Your Own Voice: Designing and Evaluating Generative AI-Assisted Vocal Coaching",
+    "authors": [
+      {
+        "name": "Tianyu Gao",
+        "affiliation": "National University of Singapore"
+      },
+      {
+        "name": "Shuqi Dai",
+        "affiliation": "Carnegie Mellon University"
+      },
+      {
+        "name": "Roger B. Dannenberg",
+        "affiliation": "Carnegie Mellon University"
+      },
+      {
+        "name": "Zhiyong Huang",
+        "affiliation": "National University of Singapore"
+      },
+      {
+        "name": "Jin Song Dong",
+        "affiliation": "National University of Singapore"
+      },
+      {
+        "name": "Jocelyn Dueck",
+        "affiliation": "Carnegie Mellon University"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "generation",
+      "human-ai",
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "pitch-estimation-and-vocal-melody-extraction-with-self-supervised-phase-comparators",
+    "sourceOrder": 7,
+    "title": "Pitch Estimation and Vocal Melody Extraction with Self-supervised Phase Comparators",
+    "authors": [
+      {
+        "name": "Li Su",
+        "affiliation": "Academia Sinica"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "pitch"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "muscriptor-an-open-model-for-multi-instrument-music-transcription",
+    "sourceOrder": 8,
+    "title": "MuScriptor: An Open Model for Multi-Instrument Music Transcription",
+    "authors": [
+      {
+        "name": "Simon Rouard",
+        "affiliation": "Kyutai"
+      },
+      {
+        "name": "Michael Krause",
+        "affiliation": "Mirelo AI"
+      },
+      {
+        "name": "Axel Roebel",
+        "affiliation": "IRCAM"
+      },
+      {
+        "name": "Carl-Johann Simon-Gabriel",
+        "affiliation": "Mirelo AI"
+      },
+      {
+        "name": "Alexandre Défossez",
+        "affiliation": "Kyutai"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "pitch-shifting-via-semantic-transformations-in-a-shared-audio-symbolic-latent-space",
+    "sourceOrder": 9,
+    "title": "Pitch Shifting via Semantic Transformations in a Shared Audio-Symbolic Latent Space",
+    "authors": [
+      {
+        "name": "Ben Maman",
+        "affiliation": "International Audio Laboratories Erlangen"
+      },
+      {
+        "name": "Andreas Brendel",
+        "affiliation": "Fraunhofer IIS Erlangen"
+      },
+      {
+        "name": "Meinard Müller",
+        "affiliation": "International Audio Laboratories Erlangen"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "pitch",
+      "symbolic-music",
+      "representation-learning",
+      "audio-transformation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "multi-task-multi-frame-visual-piano-transcription",
+    "sourceOrder": 10,
+    "title": "Multi-Task Multi-Frame Visual Piano Transcription",
+    "authors": [
+      {
+        "name": "Yonghyun Kim",
+        "affiliation": "Georgia Institute of Technology"
+      },
+      {
+        "name": "Hoyeol Sohn",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Juhan Nam",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Alexander Lerch",
+        "affiliation": "Georgia Institute of Technology"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "investigating-ethiopian-kinit-in-secular-music-a-self-supervised-learning-and-computatio",
+    "sourceOrder": 11,
+    "title": "Investigating Ethiopian Kiñit in Secular Music: A Self-Supervised Learning and Computational Analysis",
+    "authors": [
+      {
+        "name": "Berihu Yohannes Tesfay",
+        "affiliation": "Institute of Information Science, Academia Sinica; National Tsing Hua University; Mekelle University"
+      },
+      {
+        "name": "Cheng-Hsin Hsu",
+        "affiliation": "National Tsing Hua University"
+      },
+      {
+        "name": "Samuel Redie Fishatsion",
+        "affiliation": "Arts Academy, Mekelle University"
+      },
+      {
+        "name": "Li Su",
+        "affiliation": "Institute of Information Science, Academia Sinica"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "music-analysis",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "towards-robust-version-identification-in-the-wild-a-dataset-benchmark-and-fine-tuning-st",
+    "sourceOrder": 12,
+    "title": "Towards Robust Version Identification in the Wild: A Dataset, Benchmark, and Fine-Tuning Study",
+    "authors": [
+      {
+        "name": "Simon Hachmeier",
+        "affiliation": "Humboldt-Universität zu Berlin"
+      },
+      {
+        "name": "R. Oguz Araz",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Dmitry Bogdanov",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Robert Jäschke",
+        "affiliation": "Humboldt-Universität zu Berlin"
+      },
+      {
+        "name": "Xavier Serra",
+        "affiliation": "Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "retrieval-discovery",
+      "datasets-benchmarks"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "crowdioset-and-parirset-two-datasets-towards-live-music-source-separation",
+    "sourceOrder": 13,
+    "title": "CrowdioSet and PaRIRset: Two Datasets Towards Live Music Source Separation",
+    "authors": [
+      {
+        "name": "Enric Gusó",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Xavier Serra",
+        "affiliation": "Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "datasets-benchmarks",
+      "source-separation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "prima-la-musica-musically-informed-symbolic-features-for-section-boundary-detection-in-m",
+    "sourceOrder": 14,
+    "title": "Prima la Musica! Musically-Informed Symbolic Features for Section Boundary Detection in MIDI",
+    "authors": [
+      {
+        "name": "ELVIO CIPOLLONE",
+        "affiliation": "Centre Culturel Buqi"
+      },
+      {
+        "name": "FRANCESCO CIPOLLONE",
+        "affiliation": "Centre Culturel Buqi"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "symbolic-music",
+      "detection-provenance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "a-dataset-and-benchmark-for-optical-music-recognition-of-string-quartet-scores",
+    "sourceOrder": 15,
+    "title": "A Dataset and Benchmark for Optical Music Recognition of String Quartet Scores",
+    "authors": [
+      {
+        "name": "DongMin Kim",
+        "affiliation": "Sogang University"
+      },
+      {
+        "name": "Brian Liu",
+        "affiliation": "Independent Researcher"
+      },
+      {
+        "name": "Jose J. Valero-Mas",
+        "affiliation": "University of Alicante"
+      },
+      {
+        "name": "Dasaem Jeong",
+        "affiliation": "Sogang University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "scores-notation",
+      "datasets-benchmarks"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "the-debussy-dataset-evaluating-optical-music-recognition-on-modern-staff-notation-manusc",
+    "sourceOrder": 16,
+    "title": "The Debussy Dataset: Evaluating Optical Music Recognition on Modern Staff Notation Manuscripts",
+    "authors": [
+      {
+        "name": "Hugo Scheithauer",
+        "affiliation": "Inria"
+      },
+      {
+        "name": "Thibault Clérice",
+        "affiliation": "Inria"
+      },
+      {
+        "name": "Gonzalo Romero-García",
+        "affiliation": "EPITA"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "scores-notation",
+      "datasets-benchmarks",
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "violet-high-fidelity-violin-synthesis-with-techniques-and-dynamics",
+    "sourceOrder": 17,
+    "title": "VIOLET: High-Fidelity Violin Synthesis with Techniques and Dynamics",
+    "authors": [
+      {
+        "name": "Baotong Tian",
+        "affiliation": "University of Rochester"
+      },
+      {
+        "name": "Cynthia Lu",
+        "affiliation": "University of Rochester"
+      },
+      {
+        "name": "Vincent K.M. Cheung",
+        "affiliation": "Sony Computer Science Laboratories"
+      },
+      {
+        "name": "Ting-Kang Wang",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Jonathan Churchill",
+        "affiliation": "Embertone"
+      },
+      {
+        "name": "Zhiyao Duan",
+        "affiliation": "University of Rochester"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "synthesis",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "ddsynth-rl-audio-synthesizer-inversion-via-discrete-diffusion-with-reinforcement-learnin",
+    "sourceOrder": 18,
+    "title": "DDSynth-RL: Audio Synthesizer Inversion via Discrete Diffusion with Reinforcement Learning",
+    "authors": [
+      {
+        "name": "Tristan WU",
+        "affiliation": "Computational Media and Art, The Hong Kong University of Science and Technology (Guangzhou)"
+      },
+      {
+        "name": "Daniel Chin",
+        "affiliation": "New York University Shanghai"
+      },
+      {
+        "name": "Junan Zhang",
+        "affiliation": "The Chinese University of Hong Kong, Shenzhen"
+      },
+      {
+        "name": "Junyan Jiang",
+        "affiliation": "New York University Shanghai"
+      },
+      {
+        "name": "Yansen Jing",
+        "affiliation": "Department of Automation, Tsinghua University"
+      },
+      {
+        "name": "Gus Xia",
+        "affiliation": "Mohamed bin Zayed University of Artificial Intelligence"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "synthesis",
+      "diffusion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "h2h-music-improv-a-communication-model-and-audio-visual-dataset-for-music-improvisation",
+    "sourceOrder": 19,
+    "title": "H2H Music Improv: A Communication Model and Audio-Visual Dataset for Music Improvisation",
+    "authors": [
+      {
+        "name": "Aleksandra Teng Ma",
+        "affiliation": "Georgia Institute of Technology"
+      },
+      {
+        "name": "Anthony Cammarota",
+        "affiliation": "Georgia Institute of Technology"
+      },
+      {
+        "name": "Jiayi Wang",
+        "affiliation": "Georgia Institute of Technology"
+      },
+      {
+        "name": "Alexandria Smith",
+        "affiliation": "Georgia Institute of Technology"
+      },
+      {
+        "name": "Cheng-Zhi Anna Huang",
+        "affiliation": "Massachusetts Institute of Technology"
+      },
+      {
+        "name": "Jeffrey Albert",
+        "affiliation": "Georgia Institute of Technology"
+      },
+      {
+        "name": "Alexander Lerch",
+        "affiliation": "Georgia Institute of Technology"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "accompaniment-improvisation",
+      "multimodal",
+      "datasets-benchmarks"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "coda-cascaded-online-discontinuity-aware-alignment-for-real-time-image-based-score-follo",
+    "sourceOrder": 20,
+    "title": "CODA: Cascaded Online Discontinuity-Aware Alignment for Real-Time Image-Based Score Following",
+    "authors": [
+      {
+        "name": "Yining Yang",
+        "affiliation": "Western University"
+      },
+      {
+        "name": "Ruogu Chen",
+        "affiliation": "University of Alberta"
+      },
+      {
+        "name": "Jie Han",
+        "affiliation": "University of Alberta"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "real-time",
+      "scores-notation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "low-latency-real-time-automatic-music-transcription-with-band-split-rnn-and-temporal-loo",
+    "sourceOrder": 21,
+    "title": "Low-Latency Real-Time Automatic Music Transcription with Band-Split RNN and Temporal Lookahead",
+    "authors": [
+      {
+        "name": "Yuta Kusaka",
+        "affiliation": "Yamaha Corporation"
+      },
+      {
+        "name": "Akira Maezawa",
+        "affiliation": "Yamaha Corporation"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "real-time",
+      "transcription"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "stemfx-learning-mixing-style-representations-via-autoregressive-fx-chain-prediction-on-s",
+    "sourceOrder": 22,
+    "title": "StemFX: Learning Mixing Style Representations via Autoregressive FX Chain Prediction on Source-Separated Stems",
+    "authors": [
+      {
+        "name": "Yuan-Chiao Cheng",
+        "affiliation": "Independent Researcher"
+      },
+      {
+        "name": "Jui-Te Wu",
+        "affiliation": "Independent Researcher"
+      },
+      {
+        "name": "Brian Chen",
+        "affiliation": "Independent Researcher"
+      },
+      {
+        "name": "Yen-Tung Yeh",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Yu-Hua Chen",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Yi-Hsuan Yang",
+        "affiliation": "National Taiwan University"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "representation-learning",
+      "audio-effects"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "improved-robustness-in-ai-generated-music-detection",
+    "sourceOrder": 23,
+    "title": "Improved Robustness in AI-Generated Music Detection",
+    "authors": [
+      {
+        "name": "Emile Dugelay",
+        "affiliation": "Centrale Lyon"
+      },
+      {
+        "name": "Thomas Barand",
+        "affiliation": "Centrale Lyon"
+      },
+      {
+        "name": "Aurélien Laouar",
+        "affiliation": "Centrale Lyon"
+      },
+      {
+        "name": "Baptiste Campeas",
+        "affiliation": "Centrale Lyon"
+      },
+      {
+        "name": "Darius Afchar",
+        "affiliation": "Deezer Research"
+      },
+      {
+        "name": "Romain Hennequin",
+        "affiliation": "Deezer Research"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "generation",
+      "detection-provenance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "toward-song-exploration-without-listening-through-lyrics-derived-linguistic-information",
+    "sourceOrder": 24,
+    "title": "Toward Song Exploration Without Listening Through Lyrics-Derived Linguistic Information",
+    "authors": [
+      {
+        "name": "Kanako Suzuki",
+        "affiliation": "Waseda University"
+      },
+      {
+        "name": "Kosetsu Tsukuda",
+        "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+      },
+      {
+        "name": "Takayuki Nakatsuka",
+        "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+      },
+      {
+        "name": "Kento Watanabe",
+        "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+      },
+      {
+        "name": "Tomoyasu Nakano",
+        "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+      },
+      {
+        "name": "Masataka Goto",
+        "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+      },
+      {
+        "name": "Keitaro Tanaka",
+        "affiliation": "Waseda Research Institute for Science and Engineering"
+      },
+      {
+        "name": "Shigeo Morishima",
+        "affiliation": "Waseda Research Institute for Science and Engineering"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "retrieval-discovery",
+      "multimodal",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "masked-diffusion-enables-coherent-beat-tracking",
+    "sourceOrder": 25,
+    "title": "Masked Diffusion Enables Coherent Beat Tracking",
+    "authors": [
+      {
+        "name": "Francesco Foscarin",
+        "affiliation": "Music AI"
+      },
+      {
+        "name": "Filip Korzeniowski",
+        "affiliation": "Music AI"
+      },
+      {
+        "name": "Richard Vogl",
+        "affiliation": "Music AI"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "beat-tracking",
+      "diffusion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "fmanet-efficient-and-lightweight-beat-tracking-via-fourier-modulation-attention",
+    "sourceOrder": 26,
+    "title": "FMANet: Efficient and Lightweight Beat Tracking via Fourier Modulation Attention",
+    "authors": [
+      {
+        "name": "Ganghui Ru",
+        "affiliation": "Fudan University"
+      },
+      {
+        "name": "Yi Yu",
+        "affiliation": "Hiroshima University"
+      },
+      {
+        "name": "Wei Li",
+        "affiliation": "Fudan university"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "beat-tracking"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "analyzing-and-reducing-the-synthetic-to-real-transfer-gap-in-music-information-retrieval",
+    "sourceOrder": 27,
+    "title": "Analyzing and Reducing the Synthetic-to-Real Transfer Gap in Music Information Retrieval: The Task of Automatic Drum Transcription",
+    "authors": [
+      {
+        "name": "Mickaël Zehren",
+        "affiliation": "Umeå University"
+      },
+      {
+        "name": "Marco Alunno",
+        "affiliation": "Universidad EAFIT Medellín"
+      },
+      {
+        "name": "Paolo Bientinesi",
+        "affiliation": "Umeå University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription",
+      "retrieval-discovery",
+      "detection-provenance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "on-the-geometry-of-music-bandwidth-extension-in-latent-spaces-of-audio-codecs",
+    "sourceOrder": 28,
+    "title": "On the Geometry of Music Bandwidth Extension in Latent Spaces of Audio Codecs",
+    "authors": [
+      {
+        "name": "Hendrik Vincent Koops",
+        "affiliation": "Universal Music Group"
+      },
+      {
+        "name": "Hao Hao Tan",
+        "affiliation": "Universal Music Group"
+      },
+      {
+        "name": "Elio Quinton",
+        "affiliation": "Universal Music Group"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "representation-learning",
+      "audio-transformation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "steering-dense-music-retrieval-with-open-vocabulary-concept-discovery",
+    "sourceOrder": 29,
+    "title": "Steering Dense Music Retrieval With Open-Vocabulary Concept Discovery",
+    "authors": [
+      {
+        "name": "Julien Guinot",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Alain Riou",
+        "affiliation": "Universal Music Group"
+      },
+      {
+        "name": "Elio Quinton",
+        "affiliation": "Universal Music Group"
+      },
+      {
+        "name": "György Fazekas",
+        "affiliation": "Queen Mary University of London"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "controllability",
+      "retrieval-discovery"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "estimating-the-reliability-of-dynamic-time-warping-alignments-using-circumstantial-evide",
+    "sourceOrder": 30,
+    "title": "Estimating the Reliability of Dynamic Time Warping Alignments Using Circumstantial Evidence",
+    "authors": [
+      {
+        "name": "Aanya Pratapneni",
+        "affiliation": "Harvey Mudd College"
+      },
+      {
+        "name": "Alice Yuan",
+        "affiliation": "Harvey Mudd College"
+      },
+      {
+        "name": "TJ Tsai",
+        "affiliation": "Harvey Mudd College"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "rethinking-automatic-music-mixing-as-sequential-stem-blending",
+    "sourceOrder": 31,
+    "title": "Rethinking Automatic Music Mixing as Sequential Stem Blending",
+    "authors": [
+      {
+        "name": "Yen-Tung Yeh",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Chung-Jui Chan",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Yun-Ning (Amy) Hung",
+        "affiliation": "Moises"
+      },
+      {
+        "name": "Yi-Hsuan Yang",
+        "affiliation": "National Taiwan University"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "audio-effects"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "tart-a-modular-tool-for-technique-aware-audio-to-tablature-guitar-transcription",
+    "sourceOrder": 32,
+    "title": "TART: A Modular Tool For Technique-Aware Audio-To-Tablature Guitar Transcription",
+    "authors": [
+      {
+        "name": "Akshaj Gupta",
+        "affiliation": "Berkeley AI Research Lab"
+      },
+      {
+        "name": "Hwi Joo Park",
+        "affiliation": "UC Berkeley"
+      },
+      {
+        "name": "Andrea Guzman",
+        "affiliation": "UC Berkeley"
+      },
+      {
+        "name": "Shamak Gowda",
+        "affiliation": "UC Berkeley"
+      },
+      {
+        "name": "Samhita Konduri",
+        "affiliation": "UC Berkeley"
+      },
+      {
+        "name": "Jiachen Lian",
+        "affiliation": "UC Berkeley"
+      },
+      {
+        "name": "Robin Netzorg",
+        "affiliation": "UC Berkeley"
+      },
+      {
+        "name": "Gopala Anumanchipalli",
+        "affiliation": "UC Berkeley"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription",
+      "scores-notation",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "song-aesthetics-evaluation-with-multi-stem-attention-and-hierarchical-uncertainty-modeli",
+    "sourceOrder": 33,
+    "title": "Song Aesthetics Evaluation with Multi-Stem Attention and Hierarchical Uncertainty Modeling",
+    "authors": [
+      {
+        "name": "Yishan Lv",
+        "affiliation": "Xi'an Jiaotong University"
+      },
+      {
+        "name": "Jing Luo",
+        "affiliation": "Xi'an Jiaotong University"
+      },
+      {
+        "name": "Boyuan Ju",
+        "affiliation": "Xi'an Jiaotong University"
+      },
+      {
+        "name": "Yang Zhang",
+        "affiliation": "Xi'an Jiaotong University"
+      },
+      {
+        "name": "Xinda Wu",
+        "affiliation": "Xi'an Jiaotong University"
+      },
+      {
+        "name": "Bo Yuan",
+        "affiliation": "Xi'an Jiaotong University"
+      },
+      {
+        "name": "Xinyu Yang",
+        "affiliation": "Xi'an Jiaotong University"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "evaluation",
+      "perception-emotion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "exploring-the-design-space-of-representation-learning-for-audio-transformations",
+    "sourceOrder": 34,
+    "title": "Exploring the Design Space of Representation Learning for Audio Transformations",
+    "authors": [
+      {
+        "name": "Sungho Lee",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Marco A. Martínez-Ramírez",
+        "affiliation": "Sony AI"
+      },
+      {
+        "name": "Junghyun Koo",
+        "affiliation": "Sony AI"
+      },
+      {
+        "name": "Wei-Hsiang Liao",
+        "affiliation": "Sony AI"
+      },
+      {
+        "name": "Kyogu Lee",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Yuki Mitsufuji",
+        "affiliation": "Sony AI"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "representation-learning",
+      "audio-transformation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "peace-joint-embeddings-of-dsp-effects-code-and-audio",
+    "sourceOrder": 35,
+    "title": "PEACE: Joint Embeddings of DSP Effects Code and Audio",
+    "authors": [
+      {
+        "name": "David Braun",
+        "affiliation": "Princeton University"
+      },
+      {
+        "name": "Adam Finkelstein",
+        "affiliation": "Princeton University"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "representation-learning",
+      "audio-effects"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "improving-music-source-separation-with-diffusion-and-consistency-refinement",
+    "sourceOrder": 36,
+    "title": "Improving Music Source Separation with Diffusion and Consistency Refinement",
+    "authors": [
+      {
+        "name": "Tornike Karchkhadze",
+        "affiliation": "UC San Diego"
+      },
+      {
+        "name": "Mohammad Rasool Izadi",
+        "affiliation": "bose"
+      },
+      {
+        "name": "Shuo Zhang",
+        "affiliation": "Bose"
+      },
+      {
+        "name": "Shlomo Dubnov",
+        "affiliation": "UC San Diego"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "source-separation",
+      "diffusion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "uot-ir-structured-routing-of-high-polyphony-symbolic-music-into-fixed-budget-representat",
+    "sourceOrder": 37,
+    "title": "UOT-IR: Structured Routing of High-Polyphony Symbolic Music into Fixed-Budget Representations",
+    "authors": [
+      {
+        "name": "Ziyue Kang",
+        "affiliation": "FIST, Xi'an Jiaotong University;IRC of Frontier Science and Technology, Xi'an Jiaotong University"
+      },
+      {
+        "name": "Nan Nan",
+        "affiliation": "FIST, Xi'an Jiaotong University;IRC of Frontier Science and Technology, Xi'an Jiaotong University;MOE KLINNS Lab, Xi'an Jiaotong University"
+      },
+      {
+        "name": "Chenhao Lin",
+        "affiliation": "FIST, Xi'an Jiaotong University;IRC of Frontier Science and Technology, Xi'an Jiaotong University;MOE KLINNS Lab, Xi'an Jiaotong University"
+      },
+      {
+        "name": "Xiaohong Guan",
+        "affiliation": "Xi'an Jiaotong University; Tsinghua University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis",
+      "symbolic-music",
+      "representation-learning"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "on-the-use-of-pre-trained-audio-encoders-for-audio-to-score-music-transcription",
+    "sourceOrder": 38,
+    "title": "On the use of Pre-trained Audio Encoders for Audio-to-Score Music Transcription",
+    "authors": [
+      {
+        "name": "Antonio Hidalgo-Centeno",
+        "affiliation": "Pattern Recognition and Artificial Intelligence Group, University of Alicante"
+      },
+      {
+        "name": "Carlos Penarrubia",
+        "affiliation": "Pattern Recognition and Artificial Intelligence Group, University of Alicante"
+      },
+      {
+        "name": "Jose J. Valero-Mas",
+        "affiliation": "Pattern Recognition and Artificial Intelligence Group, University of Alicante"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription",
+      "scores-notation",
+      "representation-learning"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "midi-llm-improving-text-to-midi-music-generation-via-adapting-large-language-models",
+    "sourceOrder": 39,
+    "title": "MIDI-LLM: Improving Text-to-MIDI Music Generation via Adapting Large Language Models",
+    "authors": [
+      {
+        "name": "Shih-Lun Wu",
+        "affiliation": "Massachusetts Institute of Technology"
+      },
+      {
+        "name": "Dave Carlton",
+        "affiliation": "Hooktheory"
+      },
+      {
+        "name": "Ryan Miyakawa",
+        "affiliation": "Hooktheory"
+      },
+      {
+        "name": "Yoon Kim",
+        "affiliation": "Massachusetts Institute of Technology"
+      },
+      {
+        "name": "Chris Donahue",
+        "affiliation": "Carnegie Mellon University"
+      },
+      {
+        "name": "Cheng-Zhi Anna Huang",
+        "affiliation": "Massachusetts Institute of Technology"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "symbolic-music",
+      "generation",
+      "foundation-models",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "integrating-contextual-embeddings-into-evaluation-of-expressive-midi-piano-performances",
+    "sourceOrder": 40,
+    "title": "Integrating Contextual Embeddings into Evaluation of Expressive MIDI Piano Performances",
+    "authors": [
+      {
+        "name": "Dmitrii Gavrilev",
+        "affiliation": "Skolkovo Institute of Science and Technology"
+      },
+      {
+        "name": "Ilya Borovik",
+        "affiliation": "Skolkovo Institute of Science and Technology"
+      },
+      {
+        "name": "Vladimir Viro",
+        "affiliation": "Peachnote"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "symbolic-music",
+      "representation-learning",
+      "evaluation",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "beat-this-live-online-beat-and-downbeat-tracking-by-predicting-the-future",
+    "sourceOrder": 41,
+    "title": "Beat This! Live - Online Beat and Downbeat Tracking by Predicting the Future",
+    "authors": [
+      {
+        "name": "Bánk Juhász",
+        "affiliation": "Johannes Kepler Universität Linz"
+      },
+      {
+        "name": "Gerhard Widmer",
+        "affiliation": "Johannes Kepler Universität Linz"
+      },
+      {
+        "name": "Jan Schlüter",
+        "affiliation": "Johannes Kepler Universität Linz"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "real-time",
+      "beat-tracking"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "latent-trace-guidance-for-generative-control-without-disentangled-data-in-symbolic-melod",
+    "sourceOrder": 42,
+    "title": "Latent Trace Guidance for Generative Control Without Disentangled Data in Symbolic Melodic Harmonization",
+    "authors": [
+      {
+        "name": "Maximos Kaliakatsos-Papakostas",
+        "affiliation": "Hellenic Mediterranean University"
+      },
+      {
+        "name": "Dimos Makris",
+        "affiliation": "Hellenic Mediterranean University"
+      },
+      {
+        "name": "Konstantinos-Theodoros Tsamis",
+        "affiliation": "Hellenic Mediterranean University"
+      },
+      {
+        "name": "Konstantinos Soiledis",
+        "affiliation": "Hellenic Mediterranean University"
+      },
+      {
+        "name": "Vassilis Katsouros",
+        "affiliation": "Athena Research Centre"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "music-analysis",
+      "symbolic-music",
+      "generation",
+      "controllability",
+      "representation-learning"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "liveband-live-accompaniment-generation-in-the-audio-domain",
+    "sourceOrder": 43,
+    "title": "LiveBand: Live Accompaniment Generation in the Audio Domain",
+    "authors": [
+      {
+        "name": "Marco Pasini",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Javier Nistal",
+        "affiliation": "Sony Computer Science Laboratories Paris"
+      },
+      {
+        "name": "Mathias R. Bjare",
+        "affiliation": "Johannes Kepler University Linz"
+      },
+      {
+        "name": "Stefan Lattner",
+        "affiliation": "Sony Computer Science Laboratories Paris"
+      },
+      {
+        "name": "György Fazekas",
+        "affiliation": "Queen Mary University of London"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "generation",
+      "accompaniment-improvisation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "the-internet-archive-music-dataset",
+    "sourceOrder": 44,
+    "title": "The Internet Archive Music Dataset",
+    "authors": [
+      {
+        "name": "Paraskevas Stamatiadis",
+        "affiliation": "Telecom Paris"
+      },
+      {
+        "name": "Bernardo V. Miranda",
+        "affiliation": "Telecom Paris"
+      },
+      {
+        "name": "Clémentine Berger",
+        "affiliation": "Telecom Paris"
+      },
+      {
+        "name": "Gaël Richard",
+        "affiliation": "Telecom Paris"
+      },
+      {
+        "name": "Mathieu Fontaine",
+        "affiliation": "Telecom Paris"
+      },
+      {
+        "name": "Slim Essid",
+        "affiliation": "NVIDIA"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "datasets-benchmarks"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "playability-aware-audio-to-tablature-guitar-transcription-via-diffusion-models",
+    "sourceOrder": 45,
+    "title": "Playability-Aware Audio-to-Tablature Guitar Transcription via Diffusion Models",
+    "authors": [
+      {
+        "name": "Riccardo Simionato",
+        "affiliation": "Universirty of Oslo"
+      },
+      {
+        "name": "Louis Bigo",
+        "affiliation": "University of Bordeaux"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription",
+      "scores-notation",
+      "diffusion",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "oudtabs-an-interactive-microtonal-tablature-platform-for-cross-tradition-oud-repertoires",
+    "sourceOrder": 46,
+    "title": "OudTabs: An Interactive Microtonal Tablature Platform for Cross-Tradition Oud Repertoires",
+    "authors": [
+      {
+        "name": "Anıl Tuncel",
+        "affiliation": "ETH Zürich"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "scores-notation",
+      "human-ai"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "full-page-recognition-of-handwritten-jeongganbo-music-scores-dataset-and-approach",
+    "sourceOrder": 47,
+    "title": "Full-page Recognition of Handwritten Jeongganbo music scores: Dataset and Approach",
+    "authors": [
+      {
+        "name": "Carlos Penarrubia",
+        "affiliation": "University of Alicante"
+      },
+      {
+        "name": "Danbinaerin Han",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Dasaem Jeong",
+        "affiliation": "Sogang University"
+      },
+      {
+        "name": "Jose J Valero-Mas",
+        "affiliation": "University of Alicante"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "scores-notation",
+      "datasets-benchmarks"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "physiology-driven-music-retrieval-using-contrastive-learning",
+    "sourceOrder": 48,
+    "title": "Physiology-Driven Music Retrieval Using Contrastive Learning",
+    "authors": [
+      {
+        "name": "Ananth Venkatesh",
+        "affiliation": "Kings College London"
+      },
+      {
+        "name": "Elaine Chew",
+        "affiliation": "Kings College London"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "retrieval-discovery",
+      "perception-emotion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "equivariant-music-transformer",
+    "sourceOrder": 49,
+    "title": "Equivariant Music Transformer",
+    "authors": [
+      {
+        "name": "Zixun Guo",
+        "affiliation": "Singapore University of Technology and Design"
+      },
+      {
+        "name": "Simon Dixon",
+        "affiliation": "Queen Mary University of London"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "audio-transformation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "learning-jazz-pianist-style-with-cross-attention-conditioning",
+    "sourceOrder": 50,
+    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
+    "authors": [
+      {
+        "name": "Drew Edwards",
+        "affiliation": "QMUL"
+      },
+      {
+        "name": "Akira Maezawa",
+        "affiliation": "Yamaha Corporation"
+      },
+      {
+        "name": "Simon Dixon",
+        "affiliation": "QMUL"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "representations-discovery"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "recovering-affective-signals-in-baroque-opera-a-comparative-evaluation-of-human-and-llm-",
+    "sourceOrder": 51,
+    "title": "Recovering Affective Signals in Baroque Opera: A Comparative Evaluation of Human and LLM Annotation",
+    "authors": [
+      {
+        "name": "Carlos Vaquero Patricio",
+        "affiliation": "ICCMU"
+      },
+      {
+        "name": "Álvaro Torrente",
+        "affiliation": "ICCMU"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "scores-notation",
+      "foundation-models",
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "interpretable-inverse-acoustic-modeling-of-percussion-via-physics-guided-spectral-decomp",
+    "sourceOrder": 52,
+    "title": "Interpretable Inverse Acoustic Modeling of Percussion via Physics-Guided Spectral Decomposition",
+    "authors": [
+      {
+        "name": "Rajeev Rajan",
+        "affiliation": "Government Engineering College,Idukki, Kerala"
+      },
+      {
+        "name": "Kevin Benty",
+        "affiliation": "APJ Abdul Kalam Technological University, India"
+      },
+      {
+        "name": "Athul Joe Joseph Palliparambil",
+        "affiliation": "APJ Abdul Kalam Technological University, India"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "representations-discovery"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "do-music-generative-models-understand-musical-qualities-automatic-music-evaluation-with-",
+    "sourceOrder": 53,
+    "title": "Do Music Generative Models Understand Musical Qualities? Automatic Music Evaluation with Model-Intrinsic Signals",
+    "authors": [
+      {
+        "name": "Xiaosha Li",
+        "affiliation": "Georgia Institute of Technology"
+      },
+      {
+        "name": "Chun Liu",
+        "affiliation": "ByteDance Inc."
+      },
+      {
+        "name": "Ziyu Wang",
+        "affiliation": "New York University"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "generation",
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "from-prompting-to-describing-a-cross-cultural-study-of-language-for-ai-generated-music",
+    "sourceOrder": 54,
+    "title": "From Prompting to Describing: A Cross-Cultural Study of Language for AI-Generated Music",
+    "authors": [
+      {
+        "name": "Sangheon Park",
+        "affiliation": "Georgia Institute of Technology"
+      },
+      {
+        "name": "Claire Arthur",
+        "affiliation": "Georgia Institute of Technology"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "generation",
+      "bias-coverage",
+      "detection-provenance",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "phase-based-onset-enhancement-for-piano-transcription-in-ensemble-settings",
+    "sourceOrder": 55,
+    "title": "Phase-Based Onset Enhancement for Piano Transcription in Ensemble Settings",
+    "authors": [
+      {
+        "name": "Hyemi Kim",
+        "affiliation": "KAIST / ETRI"
+      },
+      {
+        "name": "Jiyun Park",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Juhan Nam",
+        "affiliation": "KAIST"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "online-music-concerts-leveraging-existing-music-videos-a-case-study-on-a-music-web-servi",
+    "sourceOrder": 56,
+    "title": "Online Music Concerts Leveraging Existing Music Videos: A Case Study on a Music Web Service",
+    "authors": [
+      {
+        "name": "Kosetsu Tsukuda",
+        "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+      },
+      {
+        "name": "Keisuke Ishida",
+        "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+      },
+      {
+        "name": "Masahiro Hamasaki",
+        "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+      },
+      {
+        "name": "Masataka Goto",
+        "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "real-time"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "violm-a-neural-language-model-for-violin-synthesis-with-articulation",
+    "sourceOrder": 57,
+    "title": "VioLM: A Neural Language Model for Violin Synthesis with Articulation",
+    "authors": [
+      {
+        "name": "Sunan Zou",
+        "affiliation": "Peking University"
+      },
+      {
+        "name": "Zhe Zhang",
+        "affiliation": "National Institute of Informatics"
+      },
+      {
+        "name": "Yigitcan Özer",
+        "affiliation": "National Institute of Informatics"
+      },
+      {
+        "name": "Guojie Luo",
+        "affiliation": "Peking University"
+      },
+      {
+        "name": "Junichi Yamagishi",
+        "affiliation": "National Institute of Informatics"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "synthesis",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "long-short-and-in-between-non-isochronous-models-of-timing-in-balkan-song-performances",
+    "sourceOrder": 58,
+    "title": "Long, Short, and In Between: Non-Isochronous Models of Timing in Balkan Song Performances",
+    "authors": [
+      {
+        "name": "George Sioros",
+        "affiliation": "University of Music and Performing Arts Vienna"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "bias-coverage",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "genre-bias-or-aesthetic-perception-identifying-and-mitigating-shortcut-learning-in-music",
+    "sourceOrder": 59,
+    "title": "Genre Bias or Aesthetic Perception? Identifying and Mitigating Shortcut Learning in Music Evaluation",
+    "authors": [
+      {
+        "name": "Yizhou Zhang",
+        "affiliation": "Kyoto University"
+      },
+      {
+        "name": "Wangjin Zhou",
+        "affiliation": "Kyoto University"
+      },
+      {
+        "name": "Yi Zhao",
+        "affiliation": "Tencent"
+      },
+      {
+        "name": "Wei Tan",
+        "affiliation": "Tencent"
+      },
+      {
+        "name": "Keisuke Imoto",
+        "affiliation": "Kyoto University"
+      },
+      {
+        "name": "Zhi Gong",
+        "affiliation": "Tencent"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "retrieval-discovery",
+      "evaluation",
+      "perception-emotion",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "end-to-end-motif-discovery-for-symbolic-polyphonic-music-via-differentiable-label-propag",
+    "sourceOrder": 60,
+    "title": "End-to-End Motif Discovery for Symbolic Polyphonic Music via Differentiable Label Propagation on Note-Pair Graphs",
+    "authors": [
+      {
+        "name": "Raynaldi Lalang",
+        "affiliation": "Kyoto University"
+      },
+      {
+        "name": "Kazuyoshi Yoshii",
+        "affiliation": "Kyoto University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis",
+      "symbolic-music",
+      "retrieval-discovery"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "gugak-vocalset-a-multi-genre-studio-quality-dataset-of-korean-traditional-singing-with-s",
+    "sourceOrder": 61,
+    "title": "Gugak-VocalSet: A Multi-Genre Studio-Quality Dataset of Korean Traditional Singing with Sigimsae Annotations",
+    "authors": [
+      {
+        "name": "Danbinaerin Han",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Wonil Kim",
+        "affiliation": "Neutune"
+      },
+      {
+        "name": "Seah Hong",
+        "affiliation": "National Gugak Center"
+      },
+      {
+        "name": "Dongjoo Moon",
+        "affiliation": "Neutune"
+      },
+      {
+        "name": "Jaeok Lee",
+        "affiliation": "National Gugak Center"
+      },
+      {
+        "name": "Jongpil Lee",
+        "affiliation": "Neutune"
+      },
+      {
+        "name": "Chaewon Kim",
+        "affiliation": "National Gugak Center"
+      },
+      {
+        "name": "Juhan Nam",
+        "affiliation": "KAIST"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "scores-notation",
+      "datasets-benchmarks",
+      "evaluation",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "unified-music-identification-for-tracks-and-versions",
+    "sourceOrder": 62,
+    "title": "Unified Music Identification for Tracks and Versions",
+    "authors": [
+      {
+        "name": "R. Oguz Araz",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Joan Serrà",
+        "affiliation": "Sony AI"
+      },
+      {
+        "name": "Yuki Mitsufuji",
+        "affiliation": "Sony AI"
+      },
+      {
+        "name": "Xavier Serra",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Dmitry Bogdanov",
+        "affiliation": "Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "retrieval-discovery"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "do-music-foundation-models-embed-pitch-in-helical-structure",
+    "sourceOrder": 63,
+    "title": "Do Music Foundation Models Embed Pitch in Helical Structure?",
+    "authors": [
+      {
+        "name": "Hayato Yagi",
+        "affiliation": "Keio University"
+      },
+      {
+        "name": "Shinnosuke Takamichi",
+        "affiliation": "Keio University/ University of Tokyo"
+      },
+      {
+        "name": "Rin Sato",
+        "affiliation": "Waseda University"
+      },
+      {
+        "name": "Keitaro Tanaka",
+        "affiliation": "Waseda University"
+      },
+      {
+        "name": "Shigeo Morishima",
+        "affiliation": "Waseda University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "pitch",
+      "music-analysis",
+      "foundation-models"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "when-ai-annotates-first-measuring-its-impact-on-music-score-labeling",
+    "sourceOrder": 64,
+    "title": "When AI Annotates First: Measuring Its Impact on Music Score Labeling",
+    "authors": [
+      {
+        "name": "Alejandro Galan-Cuenca",
+        "affiliation": "University Institute for Computing Research, University of Alicante"
+      },
+      {
+        "name": "Juan P. Martinez-Esteso",
+        "affiliation": "University Institute for Computing Research, University of Alicante"
+      },
+      {
+        "name": "Carlos Pérez-Sancho",
+        "affiliation": "University Institute for Computing Research, University of Alicante"
+      },
+      {
+        "name": "Francisco J. Castellanos",
+        "affiliation": "University Institute for Computing Research, University of Alicante"
+      },
+      {
+        "name": "Antonio Javier Gallego",
+        "affiliation": "University Institute for Computing Research, University of Alicante"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "scores-notation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "symphonygen-3d-hierarchical-orchestral-generation-with-controllable-harmony-skeleton",
+    "sourceOrder": 65,
+    "title": "SymphonyGen: 3D Hierarchical Orchestral Generation with Controllable Harmony Skeleton",
+    "authors": [
+      {
+        "name": "Xuzheng He",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Nan Nan",
+        "affiliation": "Xi'an Jiaotong University"
+      },
+      {
+        "name": "Zhilin Wang",
+        "affiliation": "University of Science and Technology of China"
+      },
+      {
+        "name": "Ziyue Kang",
+        "affiliation": "Xi'an Jiaotong University"
+      },
+      {
+        "name": "Zhuoru Mo",
+        "affiliation": "Shenzhen University"
+      },
+      {
+        "name": "Ao Li",
+        "affiliation": "Xi'an Jiaotong University"
+      },
+      {
+        "name": "Yu Pan",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Xiaobing Li",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Feng Yu",
+        "affiliation": "Central Conservatory of Music"
+      },
+      {
+        "name": "Xiaohong Guan",
+        "affiliation": "Xi'an Jiaotong University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis",
+      "generation",
+      "controllability"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "music-genre-classification-using-audio-and-automatically-transcribed-lyrics",
+    "sourceOrder": 66,
+    "title": "Music Genre Classification Using Audio and Automatically Transcribed Lyrics",
+    "authors": [
+      {
+        "name": "Jun-You Wang",
+        "affiliation": "National Taiwan Normal University"
+      },
+      {
+        "name": "Hsuan Yu Chen",
+        "affiliation": "National Taiwan Normal University"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "transcription",
+      "multimodal",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "revisiting-two-stage-audio-chord-recognition-in-the-deep-learning-era-leveraging-multi-p",
+    "sourceOrder": 67,
+    "title": "Revisiting Two-Stage Audio Chord Recognition in the Deep-Learning Era: Leveraging Multi-Pitch Estimation and Symbolic Pretraining",
+    "authors": [
+      {
+        "name": "Yiwei Ding",
+        "affiliation": "University of Würzburg"
+      },
+      {
+        "name": "Yannik Venohr",
+        "affiliation": "University of Würzburg"
+      },
+      {
+        "name": "Sebastian Strahl",
+        "affiliation": "International Audio Laboratories Erlangen"
+      },
+      {
+        "name": "Meinard Müller",
+        "affiliation": "International Audio Laboratories Erlangen"
+      },
+      {
+        "name": "Christof Weiß",
+        "affiliation": "University of Würzburg"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "pitch",
+      "music-analysis",
+      "symbolic-music"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "bars-beat-adaptive-rap-synthesis-via-flow-matching",
+    "sourceOrder": 68,
+    "title": "BARS: Beat-Adaptive Rap Synthesis via Flow Matching",
+    "authors": [
+      {
+        "name": "Taemin Cho",
+        "affiliation": "BandLab Technologies"
+      },
+      {
+        "name": "Hector Martel",
+        "affiliation": "BandLab Technologies"
+      },
+      {
+        "name": "Enyan Koh",
+        "affiliation": "BandLab Technologies"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "beat-tracking",
+      "synthesis"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "mpecho-a-melody-and-phoneme-aware-generative-framework-for-controllable-cover-song-gener",
+    "sourceOrder": 69,
+    "title": "MPEcho: A Melody and Phoneme-Aware Generative Framework for Controllable Cover Song Generation",
+    "authors": [
+      {
+        "name": "Wei-Jaw Lee",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Hsuan-Yu Yeh",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Ting-Yi Hu",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Chih-Pin Tan",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Fang-Duo Tsai",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Yi-Hsuan Yang",
+        "affiliation": "National Taiwan University"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "pitch",
+      "generation",
+      "controllability",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "what-makes-a-good-layer-assessing-the-layer-wise-intrinsic-properties-of-music-foundatio",
+    "sourceOrder": 70,
+    "title": "What Makes a Good Layer? Assessing the Layer-Wise Intrinsic Properties of Music Foundation Models",
+    "authors": [
+      {
+        "name": "Angelos-Nikolaos Kanatas",
+        "affiliation": "Music Technology Group, Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Yuexuan Kong",
+        "affiliation": "Deezer Research"
+      },
+      {
+        "name": "Pablo Alonso-Jiménez",
+        "affiliation": "Music Technology Group, Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Xavier Serra",
+        "affiliation": "Music Technology Group, Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Dmitry Bogdanov",
+        "affiliation": "Music Technology Group, Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "foundation-models",
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "musical-emotion-under-cochlear-implant-listening-human-perception-and-foundation-model-r",
+    "sourceOrder": 71,
+    "title": "Musical Emotion under Cochlear Implant Listening: Human Perception and Foundation Model Representations of Human-Composed and AI-Generated Music",
+    "authors": [
+      {
+        "name": "Taein Song",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Hyunjae Kim",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Kyung Myun Lee",
+        "affiliation": "KAIST"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "generation",
+      "representation-learning",
+      "foundation-models",
+      "perception-emotion",
+      "detection-provenance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "soft-late-fusion-alignment-and-pattern-based-performance-analysis-of-early-20th-century-",
+    "sourceOrder": 72,
+    "title": "Soft Late-Fusion Alignment and Pattern-Based Performance Analysis of Early 20th-Century Solo Flute Music",
+    "authors": [
+      {
+        "name": "Patrice Thibaud",
+        "affiliation": "Univ. Lille, CNRS, Inria, Centrale Lille, UMR 9189 CRIStAL, F-59000 Lille, France"
+      },
+      {
+        "name": "Louis Bigo",
+        "affiliation": "Univ. Bordeaux, CNRS, Bordeaux INP, LaBRI, UMR 5800, F-33400 Talence"
+      },
+      {
+        "name": "Mathieu Giraud",
+        "affiliation": "Univ. Lille, CNRS, Inria, Centrale Lille, UMR 9189 CRIStAL, F-59000 Lille, France"
+      },
+      {
+        "name": "Yann Teytaut",
+        "affiliation": "Univ. Lille, CNRS, Inria, Centrale Lille, UMR 9189 CRIStAL, F-59000 Lille, France"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "robust-instrument-agnostic-music-transcription-for-western-classical-music",
+    "sourceOrder": 73,
+    "title": "Robust Instrument-Agnostic Music Transcription for Western Classical Music",
+    "authors": [
+      {
+        "name": "Yannik Venohr",
+        "affiliation": "University of Würzburg"
+      },
+      {
+        "name": "Christof Weiß",
+        "affiliation": "University of Würzburg"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "pianoid-3d-pianist-body-motion-generation-from-midi",
+    "sourceOrder": 74,
+    "title": "Pianoid: 3D Pianist Body Motion Generation from MIDI",
+    "authors": [
+      {
+        "name": "Joonhyung Bae",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Juhan Nam",
+        "affiliation": "KAIST"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "symbolic-music",
+      "generation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "more-than-words-genre-discriminating-lyrical-patterns-in-anglophone-german-popular-music",
+    "sourceOrder": 75,
+    "title": "More than words: Genre-Discriminating Lyrical Patterns in Anglophone German Popular Music",
+    "authors": [
+      {
+        "name": "Markus Radke",
+        "affiliation": "Technische Universität Berlin"
+      },
+      {
+        "name": "Steffen Lepa",
+        "affiliation": "Technische Universität Berlin"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "mex-the-musical-expectation-benchmark-suite",
+    "sourceOrder": 76,
+    "title": "MEX: The Musical Expectation Benchmark Suite",
+    "authors": [
+      {
+        "name": "Mathias Rose Bjare",
+        "affiliation": "Johannes Kepler University Linz"
+      },
+      {
+        "name": "Augustin Bouquillard",
+        "affiliation": "Max Planck Institute for Empirical Aesthetics"
+      },
+      {
+        "name": "Giorgia Cantisani",
+        "affiliation": "Sciences et Technologies de la Musique et du Son, CNRS, IRCAM, Sorbonne Université"
+      },
+      {
+        "name": "Seung-Goo Kim",
+        "affiliation": "Max Planck Institute for Empirical Aesthetics"
+      },
+      {
+        "name": "Stefan Lattner",
+        "affiliation": "Sony Computer Science Laboratories (CSL), Paris"
+      },
+      {
+        "name": "Gerhard Widmer",
+        "affiliation": "Johannes Kepler University Linz"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "datasets-benchmarks",
+      "perception-emotion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "sky-piano-a-multimodal-piano-performance-dataset",
+    "sourceOrder": 77,
+    "title": "SKY-Piano: A Multimodal Piano Performance Dataset",
+    "authors": [
+      {
+        "name": "Joonhyung Bae",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Dawon Park",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Taegyun Kwon",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Yoon-Seok Choi",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Hyeon Hur",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Satoshi Obata",
+        "affiliation": "YAMAHA"
+      },
+      {
+        "name": "Shigeru Kai",
+        "affiliation": "YAMAHA"
+      },
+      {
+        "name": "Yohei Wada",
+        "affiliation": "YAMAHA"
+      },
+      {
+        "name": "Yu Takahashi",
+        "affiliation": "YAMAHA"
+      },
+      {
+        "name": "Akira Maezawa",
+        "affiliation": "YAMAHA"
+      },
+      {
+        "name": "Jaebum Park",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Jonghwa Park",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Juhan Nam",
+        "affiliation": "KAIST"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "multimodal",
+      "datasets-benchmarks",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "capcycin-improving-music-captioning-through-cycle-consistent-music-text-alignment",
+    "sourceOrder": 78,
+    "title": "CapCyCin: Improving Music Captioning through Cycle-Consistent Music–Text Alignment",
+    "authors": [
+      {
+        "name": "Saeyeon Hwang",
+        "affiliation": "Department of Data Science, Graduate School of Data Science, Seoul National University"
+      },
+      {
+        "name": "Kyungsu Kim",
+        "affiliation": "Department of Intelligence and Information, Graduate School of Convergence Science and Technology, Seoul National University"
+      },
+      {
+        "name": "Kyogu Lee",
+        "affiliation": "IPAI, Department of Intelligence and Information, AIIS, Seoul National University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "multimodal"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "human-performance-in-lyric-topic-classification-evaluation-and-implications",
+    "sourceOrder": 79,
+    "title": "Human Performance in Lyric Topic Classification: Evaluation and Implications",
+    "authors": [
+      {
+        "name": "Varvara Papazoglou",
+        "affiliation": "University of Sheffield"
+      },
+      {
+        "name": "Robert Gaizauskas",
+        "affiliation": "University of Sheffield"
+      },
+      {
+        "name": "Alexandros Stamatiadis",
+        "affiliation": "Independent Researcher"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "evaluation",
+      "performance",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "coala-a-plugin-model-for-controlling-audio-latents",
+    "sourceOrder": 80,
+    "title": "CoALa: A Plugin Model for Controlling Audio Latents",
+    "authors": [
+      {
+        "name": "Sarah Nabi",
+        "affiliation": "IRCAM"
+      },
+      {
+        "name": "Nabarun Goswami",
+        "affiliation": "The University of Tokyo"
+      },
+      {
+        "name": "Philippe Esling",
+        "affiliation": "IRCAM"
+      },
+      {
+        "name": "Geoffroy Peeters",
+        "affiliation": "Telecom Paris"
+      },
+      {
+        "name": "Frédéric Bevilacqua",
+        "affiliation": "IRCAM"
+      },
+      {
+        "name": "Tatsuya Harada",
+        "affiliation": "The University of Tokyo"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "controllability",
+      "representation-learning"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "majeppa-morphing-and-assessing-in-a-unified-piano-performance-space",
+    "sourceOrder": 81,
+    "title": "MAJEPPA: Morphing and Assessing in a Unified Piano Performance Space",
+    "authors": [
+      {
+        "name": "Jinwen Zhou",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Huan Zhang",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Weixi Zhai",
+        "affiliation": "Quanzhou Normal University"
+      },
+      {
+        "name": "Jinhua Liang",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Aidan O. T. Hogg",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Simon Dixon",
+        "affiliation": "Queen Mary University of London"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "audio-transformation",
+      "evaluation",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "beyond-dry-references-learning-relative-audio-effects-representations-via-contrastive-di",
+    "sourceOrder": 82,
+    "title": "Beyond Dry References: Learning Relative Audio Effects Representations via Contrastive Distance Learning",
+    "authors": [
+      {
+        "name": "Xinlu Liu",
+        "affiliation": "Galaxy Audio Effect Team, Tencent Music Entertainment"
+      },
+      {
+        "name": "Huibin Lin",
+        "affiliation": "Galaxy Audio Effect Team, Tencent Music Entertainment"
+      },
+      {
+        "name": "Weixing Wei",
+        "affiliation": "Independent Researcher"
+      },
+      {
+        "name": "Zhenhai Yan",
+        "affiliation": "Galaxy Audio Effect Team, Tencent Music Entertainment"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "representation-learning",
+      "audio-effects"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "explore-this-beat-and-downbeat-tracking-from-a-learned-tatum-grid",
+    "sourceOrder": 83,
+    "title": "Explore This! Beat and Downbeat Tracking From a Learned Tatum Grid",
+    "authors": [
+      {
+        "name": "Robert Kihlborg",
+        "affiliation": "KTH"
+      },
+      {
+        "name": "André Holzapfel",
+        "affiliation": "KTH"
+      },
+      {
+        "name": "Jan Schlüter",
+        "affiliation": "JKU Linz"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "beat-tracking"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "stem-specialized-multi-gate-mixture-of-experts-for-joint-music-structure-analysis",
+    "sourceOrder": 84,
+    "title": "Stem-Specialized Multi-Gate Mixture-of-Experts for Joint Music Structure Analysis",
+    "authors": [
+      {
+        "name": "Aneeka Azmat",
+        "affiliation": "Academia Sinica"
+      },
+      {
+        "name": "Li Su",
+        "affiliation": "Academia Sinica"
+      },
+      {
+        "name": "ChengHsin Hsu",
+        "affiliation": "National Tsing Hua University, Hsinchu City, Taiwan"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "a-cross-cultural-dataset-of-instrumental-difficulty-for-woodwinds-and-strings",
+    "sourceOrder": 85,
+    "title": "A Cross-Cultural Dataset of Instrumental Difficulty for Woodwinds and Strings",
+    "authors": [
+      {
+        "name": "Rui Yang",
+        "affiliation": "Université de Lille"
+      },
+      {
+        "name": "Mathieu Giraud",
+        "affiliation": "CNRS, Université de Lille"
+      },
+      {
+        "name": "Florence Levé",
+        "affiliation": "Université de Picardie Jules-Verne"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "datasets-benchmarks",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "detection-of-ai-generated-stems-within-hybrid-human-ai-music",
+    "sourceOrder": 86,
+    "title": "Detection of AI-Generated Stems Within Hybrid Human-AI Music",
+    "authors": [
+      {
+        "name": "François Rigaud",
+        "affiliation": "Deezer Research"
+      },
+      {
+        "name": "Gabriel Meseguer Brocal",
+        "affiliation": "Deezer Research"
+      },
+      {
+        "name": "Benjamin Martin",
+        "affiliation": "Deezer Research"
+      },
+      {
+        "name": "Romain Hennequin",
+        "affiliation": "Deezer Research"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "generation",
+      "human-ai",
+      "detection-provenance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "culture-specific-computational-musicology-in-practice-diarmaqar-digital-arabic-maqam-arc",
+    "sourceOrder": 87,
+    "title": "Culture-Specific Computational Musicology in Practice: DiArMaqAr (Digital Arabic Maqām Archive)",
+    "authors": [
+      {
+        "name": "Khyam Allami",
+        "affiliation": "Music Intelligence Lab, American University of Beirut"
+      },
+      {
+        "name": "Ibrahim El Khansa",
+        "affiliation": "Music Intelligence Lab, American University of Beiru"
+      },
+      {
+        "name": "Mohammad El Asal",
+        "affiliation": "Music Intelligence Lab, American University of Beirut"
+      },
+      {
+        "name": "Joseph Bakarji",
+        "affiliation": "Music Intelligence Lab, American University of Beirut"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "mitigating-structural-collapse-in-multi-codebook-autoregressive-music-generation-via-str",
+    "sourceOrder": 88,
+    "title": "Mitigating Structural Collapse in Multi-Codebook Autoregressive Music Generation via Structure-Aware Scheduled Sampling",
+    "authors": [
+      {
+        "name": "Chen Feng Tsai",
+        "affiliation": "Academia Sinica"
+      },
+      {
+        "name": "Mi-Yen Yeh",
+        "affiliation": "Academia Sinica"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "music-analysis",
+      "generation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "from-prediction-to-collaboration-interactive-symbolic-music-analysis",
+    "sourceOrder": 89,
+    "title": "From Prediction to Collaboration: Interactive Symbolic Music Analysis",
+    "authors": [
+      {
+        "name": "Emmanouil Karystinaios",
+        "affiliation": "Johannes Kepler University"
+      },
+      {
+        "name": "Johannes Hentschel",
+        "affiliation": "Anton Bruckner University"
+      },
+      {
+        "name": "Markus Neuwirth",
+        "affiliation": "Anton Bruckner University"
+      },
+      {
+        "name": "Gerhard Widmer",
+        "affiliation": "Johannes Kepler University"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "music-analysis",
+      "symbolic-music",
+      "human-ai"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "ghost-in-the-encoder-decodable-artist-identity-representations-in-lyrics-to-song-generat",
+    "sourceOrder": 90,
+    "title": "Ghost In The Encoder: Decodable Artist Identity Representations In Lyrics-To-Song Generation",
+    "authors": [
+      {
+        "name": "Arhan Vohra",
+        "affiliation": "Universitat Pompeu Fabra - MTG"
+      },
+      {
+        "name": "Choenden Kyirong",
+        "affiliation": "Universitat Pompeu Fabra - MTG"
+      },
+      {
+        "name": "Laura Ibañez",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Martín Rocamora",
+        "affiliation": "Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "generation",
+      "representation-learning",
+      "multimodal",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "a-first-benchmark-and-metric-for-evaluating-polyphony-in-symbolic-music-using-voice-inde",
+    "sourceOrder": 91,
+    "title": "A First Benchmark and Metric for Evaluating Polyphony in Symbolic Music using Voice Independence",
+    "authors": [
+      {
+        "name": "Eleanor Row",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "György Fazekas",
+        "affiliation": "Queen Mary University of London"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "music-analysis",
+      "symbolic-music",
+      "datasets-benchmarks",
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "evaluating-music-context-preservation-a-multi-facet-framework-for-music-editing-systems",
+    "sourceOrder": 92,
+    "title": "Evaluating Music Context Preservation: A Multi-Facet Framework for Music Editing Systems",
+    "authors": [
+      {
+        "name": "Yash Vishe",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Eric Xue",
+        "affiliation": "University of Chicago"
+      },
+      {
+        "name": "Xunyi Jiang",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Zachary Novack",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Junda Wu",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Julian McAuley",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Xin Xu",
+        "affiliation": "University of California San Diego"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "learning-music-style-for-piano-arrangement-through-cross-modal-bootstrapping",
+    "sourceOrder": 93,
+    "title": "Learning Music Style for Piano Arrangement Through Cross-Modal Bootstrapping",
+    "authors": [
+      {
+        "name": "Jingwei Zhao",
+        "affiliation": "Songscription"
+      },
+      {
+        "name": "Gus Xia",
+        "affiliation": "MBZUAI"
+      },
+      {
+        "name": "Ziyu Wang",
+        "affiliation": "New York University"
+      },
+      {
+        "name": "Ye Wang",
+        "affiliation": "National University of Singapore"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "generation-collaboration"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "smorph-playable-sound-morphing-with-diffusion-models",
+    "sourceOrder": 94,
+    "title": "Smorph: Playable Sound Morphing with Diffusion Models",
+    "authors": [
+      {
+        "name": "Annie Chu",
+        "affiliation": "Northwestern University"
+      },
+      {
+        "name": "Hugo Flores García",
+        "affiliation": "Adobe Inc."
+      },
+      {
+        "name": "Johannes Imort",
+        "affiliation": "Adobe Inc."
+      },
+      {
+        "name": "Oriol Nieto",
+        "affiliation": "Adobe Inc."
+      },
+      {
+        "name": "Bryan Pardo",
+        "affiliation": "Northwestern University"
+      },
+      {
+        "name": "Jordan Rudess",
+        "affiliation": "Wizdom Music"
+      },
+      {
+        "name": "Prem Seetharaman",
+        "affiliation": "Adobe Inc."
+      },
+      {
+        "name": "Justin Salamon",
+        "affiliation": "Adobe Inc."
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "audio-transformation",
+      "diffusion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "does-notation-matter-musicxml-tokenisation-for-symbolic-music-generation-and-understandi",
+    "sourceOrder": 95,
+    "title": "Does Notation Matter? MusicXML Tokenisation for Symbolic Music Generation and Understanding",
+    "authors": [
+      {
+        "name": "Andrea Poltronieri",
+        "affiliation": "Music Technology Group - Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Matteo Spanio",
+        "affiliation": "University of Padua"
+      },
+      {
+        "name": "Simone Chieppa",
+        "affiliation": "Music Technology Group - Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Xavier Serra",
+        "affiliation": "Music Technology Group - Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Martín Rocamora",
+        "affiliation": "Music Technology Group - Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "scores-notation",
+      "symbolic-music",
+      "generation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "geometric-iterative-retrieval-for-neural-audio-codec-resynthesis",
+    "sourceOrder": 96,
+    "title": "Geometric Iterative Retrieval for Neural Audio Codec Resynthesis",
+    "authors": [
+      {
+        "name": "Leo Schmidt-Traub",
+        "affiliation": "ETH Zurich"
+      },
+      {
+        "name": "Frederic Berdoz",
+        "affiliation": "ETH Zurich"
+      },
+      {
+        "name": "Luca A. Lanzendörfer",
+        "affiliation": "ETH Zurich"
+      },
+      {
+        "name": "Roger Wattenhofer",
+        "affiliation": "ETH Zurich"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "retrieval-discovery",
+      "audio-transformation",
+      "synthesis",
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "emergent-tonal-structure-in-learned-chord-embeddings-and-its-relation-to-tonal-tension",
+    "sourceOrder": 97,
+    "title": "Emergent Tonal Structure in Learned Chord Embeddings and Its Relation to Tonal Tension",
+    "authors": [
+      {
+        "name": "Maral Ebrahimzadeh",
+        "affiliation": "Otto-von-Guericke-University Magdeburg"
+      },
+      {
+        "name": "Gilberto Bernardes",
+        "affiliation": "University of Porto"
+      },
+      {
+        "name": "Sebastian Stober",
+        "affiliation": "Otto-von-Guericke-University Magdeburg"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis",
+      "representation-learning"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "mambavoice-lightweight-audiovisual-singing-voice-separation-via-a-hybrid-mamba-transform",
+    "sourceOrder": 98,
+    "title": "MambaVoice: Lightweight Audiovisual Singing Voice Separation via a Hybrid Mamba-Transformer Model",
+    "authors": [
+      {
+        "name": "Adithi Shankar",
+        "affiliation": "Music Technology Group- Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Gopika Krishnan",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Gloria Haro",
+        "affiliation": "Intelligent Multimodal Vision Analysis Group,Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Xavier Serra",
+        "affiliation": "Music Technology Group, Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Martín Rocamora",
+        "affiliation": "Music Technology Group, Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "source-separation",
+      "audio-transformation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "harmonic-representations-in-symbolic-music-transformers-are-localized-and-controllable",
+    "sourceOrder": 99,
+    "title": "Harmonic Representations in Symbolic Music Transformers are Localized and Controllable",
+    "authors": [
+      {
+        "name": "Adi Silberschein",
+        "affiliation": "Weizmann Institute"
+      },
+      {
+        "name": "Megan Wei",
+        "affiliation": "Brown University"
+      },
+      {
+        "name": "Tamar Rott Shaham",
+        "affiliation": "Massachusetts Institute of Technology"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis",
+      "symbolic-music",
+      "controllability",
+      "representation-learning",
+      "audio-transformation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "allmusiccaps-album-reviews-as-complementary-supervision-for-music-clap",
+    "sourceOrder": 100,
+    "title": "AllMusicCaps: Album Reviews as Complementary Supervision for Music CLAP",
+    "authors": [
+      {
+        "name": "Pablo Alonso-Jiménez",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Xavier Lizarraga-Seijas",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Xavier Serra",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Dmitry Bogdanov",
+        "affiliation": "Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "representations-discovery"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "comparing-compression-based-models-of-similarity-in-jazz-harmonic-progressions",
+    "sourceOrder": 101,
+    "title": "Comparing Compression-Based Models of Similarity in Jazz Harmonic Progressions",
+    "authors": [
+      {
+        "name": "Xinyi Guan",
+        "affiliation": "EPFL"
+      },
+      {
+        "name": "Edward T. R. Hall",
+        "affiliation": "EPFL"
+      },
+      {
+        "name": "Zeng Ren",
+        "affiliation": "EPFL"
+      },
+      {
+        "name": "Marina Borsodi-Benson",
+        "affiliation": "EPFL"
+      },
+      {
+        "name": "Claire Pelofi",
+        "affiliation": "NYU"
+      },
+      {
+        "name": "Martin Rohrmeier",
+        "affiliation": "EPFL"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "exploring-musical-taste-analyzing-user-content-preferences-through-attention-mechanisms",
+    "sourceOrder": 102,
+    "title": "Exploring Musical Taste : Analyzing User Content Preferences through Attention Mechanisms",
+    "authors": [
+      {
+        "name": "Yan-Martin Tamm",
+        "affiliation": "University of Tartu"
+      },
+      {
+        "name": "Anna Aljanaki",
+        "affiliation": "University of Tartu"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "perception-emotion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "do-joint-language-audio-embeddings-encode-perceptual-timbre-semantics",
+    "sourceOrder": 103,
+    "title": "Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?",
+    "authors": [
+      {
+        "name": "Qixin Deng",
+        "affiliation": "Northwestern University"
+      },
+      {
+        "name": "Bryan Pardo",
+        "affiliation": "Northwestern University"
+      },
+      {
+        "name": "Thrasyvoulos N. Pappas",
+        "affiliation": "Northwestern University"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "representation-learning",
+      "perception-emotion",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "rngen-a-large-language-model-approach-to-roman-numeral-analysis-toward-explainable-harmo",
+    "sourceOrder": 104,
+    "title": "RNGen: A Large Language Model Approach to Roman Numeral Analysis Toward Explainable Harmonic Analysis",
+    "authors": [
+      {
+        "name": "Hewei Gao",
+        "affiliation": "Technical University of Denmark"
+      },
+      {
+        "name": "Tim Beyer",
+        "affiliation": "Technical University of Munich"
+      },
+      {
+        "name": "Xiaoxuan Wang",
+        "affiliation": "École Polytechnique Fédérale de Lausanne"
+      },
+      {
+        "name": "Martin Rohrmeier",
+        "affiliation": "École Polytechnique Fédérale de Lausanne"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "audiocodex-streaming-autoencoders-for-live-audio",
+    "sourceOrder": 105,
+    "title": "AudioCodex: Streaming Autoencoders for Live Audio",
+    "authors": [
+      {
+        "name": "Marco Pasini",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Javier Nistal",
+        "affiliation": "Sony Computer Science Laboratories Paris"
+      },
+      {
+        "name": "Cyran Aouameur",
+        "affiliation": "Sony Computer Science Laboratories Paris"
+      },
+      {
+        "name": "Stefan Lattner",
+        "affiliation": "Sony Computer Science Laboratories Paris"
+      },
+      {
+        "name": "György Fazekas",
+        "affiliation": "Queen Mary University of London"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "real-time",
+      "representation-learning"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "assessing-factual-music-comprehension-in-large-audio-language-models",
+    "sourceOrder": 106,
+    "title": "Assessing Factual Music Comprehension in Large Audio Language Models",
+    "authors": [
+      {
+        "name": "Daniel Chenyu Lin",
+        "affiliation": "Cornell University"
+      },
+      {
+        "name": "Michael Freeman",
+        "affiliation": "Cornell University"
+      },
+      {
+        "name": "John Thickstun",
+        "affiliation": "Cornell University"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "foundation-models",
+      "evaluation",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "learning-to-predict-performance-induced-emotion-differences-in-classical-piano-music",
+    "sourceOrder": 107,
+    "title": "Learning to Predict Performance-induced Emotion Differences in Classical Piano Music",
+    "authors": [
+      {
+        "name": "Joann Ching",
+        "affiliation": "Johannes Kepler University"
+      },
+      {
+        "name": "Gerhard Widmer",
+        "affiliation": "Johannes Kepler University Linz"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "perception-emotion",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "an-open-corpus-for-arabic-maqam-recognition",
+    "sourceOrder": 108,
+    "title": "An Open Corpus for Arabic Maqam Recognition",
+    "authors": [
+      {
+        "name": "Peter Traver",
+        "affiliation": "New York University"
+      },
+      {
+        "name": "Layth Sidiq",
+        "affiliation": "NYU Abu Dhabi"
+      },
+      {
+        "name": "Robert Rowe",
+        "affiliation": "New York University"
+      },
+      {
+        "name": "Andrew J. Eisenberg",
+        "affiliation": "NYU Abu Dhabi"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "datasets-benchmarks",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "spacing-out-on-the-reliability-of-binaural-music-source-separation-metrics",
+    "sourceOrder": 109,
+    "title": "Spacing Out: On the Reliability of Binaural Music Source Separation Metrics",
+    "authors": [
+      {
+        "name": "Richa Namballa",
+        "affiliation": "New York University"
+      },
+      {
+        "name": "Magdalena Fuentes",
+        "affiliation": "New York University"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "source-separation",
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "diff2mix-controllable-music-mixing-via-diffusion-models-and-differentiable-audio-effects",
+    "sourceOrder": 110,
+    "title": "Diff2Mix: Controllable Music Mixing via Diffusion Models and Differentiable Audio Effects",
+    "authors": [
+      {
+        "name": "Yisu Zong",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Jinjie Shi",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Joshua Reiss",
+        "affiliation": "Queen Mary University of London"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "controllability",
+      "audio-effects",
+      "diffusion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "cyclic-attractors-in-iterated-llm-based-symbolic-music-style-transfer",
+    "sourceOrder": 111,
+    "title": "Cyclic Attractors in Iterated LLM-Based Symbolic Music Style Transfer",
+    "authors": [
+      {
+        "name": "Jiarui Li",
+        "affiliation": "University of Edinburgh"
+      },
+      {
+        "name": "Mark Liberman",
+        "affiliation": "University of Pennsylvania"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "symbolic-music",
+      "foundation-models"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "live-music-denoising-with-authentic-live-data-and-track-editing-guided-semi-supervised-l",
+    "sourceOrder": 112,
+    "title": "Live Music Denoising with Authentic Live Data and Track-Editing-Guided Semi-Supervised Learning",
+    "authors": [
+      {
+        "name": "Penghao He",
+        "affiliation": "College of Computer Science and Artificial Intelligence, Fudan University"
+      },
+      {
+        "name": "Xiankexin Luo",
+        "affiliation": "College of Computer Science and Artificial Intelligence, Fudan University"
+      },
+      {
+        "name": "Wei Li",
+        "affiliation": "College of Computer Science and Artificial Intelligence, Fudan University"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "audio-transformation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "mixweaver-stem-aware-automatic-dj-transition-generation-via-structured-discrete-optimiza",
+    "sourceOrder": 113,
+    "title": "MixWeaver: Stem-Aware Automatic DJ Transition Generation via Structured Discrete Optimization",
+    "authors": [
+      {
+        "name": "Xuran Zhou",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Xunyi Jiang",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Churan Zhi",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Junda Wu",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Julian McAuley",
+        "affiliation": "University of California San Diego"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "music-analysis",
+      "generation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "beyond-piano-cross-instrument-midi-velocity-estimation-via-differentiable-soundfont-prox",
+    "sourceOrder": 114,
+    "title": "Beyond Piano: Cross-Instrument MIDI Velocity Estimation via Differentiable SoundFont Proxies",
+    "authors": [
+      {
+        "name": "Zhanhong He",
+        "affiliation": "University of Western Australia"
+      },
+      {
+        "name": "Hanyu Meng",
+        "affiliation": "University of New South Wales"
+      },
+      {
+        "name": "David (Defeng) Huang",
+        "affiliation": "University of Western Australia"
+      },
+      {
+        "name": "Roberto Togneri",
+        "affiliation": "University of Western Australia"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "symbolic-music"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "local-multimodal-music-alignment-from-global-supervision",
+    "sourceOrder": 115,
+    "title": "Local Multimodal Music Alignment from Global Supervision",
+    "authors": [
+      {
+        "name": "Irmak Bukey",
+        "affiliation": "Carnegie Mellon University"
+      },
+      {
+        "name": "Zachary Novack",
+        "affiliation": "University of California San Diego"
+      },
+      {
+        "name": "Jongmin Jung",
+        "affiliation": "Neutune"
+      },
+      {
+        "name": "Dasaem Jeong",
+        "affiliation": "Sogang University"
+      },
+      {
+        "name": "Chris Donahue",
+        "affiliation": "Carnegie Mellon University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "multimodal"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "adapting-music-foundation-models-to-iranian-classical-music",
+    "sourceOrder": 116,
+    "title": "Adapting Music Foundation Models to Iranian Classical Music",
+    "authors": [
+      {
+        "name": "Pouya Mohseni",
+        "affiliation": "McGill University"
+      },
+      {
+        "name": "Bagher BabaAli",
+        "affiliation": "University of Tehran"
+      },
+      {
+        "name": "Ichiro Fujinaga",
+        "affiliation": "McGill University"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "foundation-models",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "globaltap-globally-diverse-beat-tracking-benchmark-via-crowdsourced-tapping",
+    "sourceOrder": 117,
+    "title": "GlobalTap: Globally Diverse Beat Tracking Benchmark via Crowdsourced Tapping",
+    "authors": [
+      {
+        "name": "William T. Botticelli-Wells",
+        "affiliation": "Cornell University"
+      },
+      {
+        "name": "Manuel Anglada-Tort",
+        "affiliation": "Goldsmiths, University of London"
+      },
+      {
+        "name": "Elif Celen",
+        "affiliation": "Max Planck Institute for Empirical Aesthetics"
+      },
+      {
+        "name": "Rena Far",
+        "affiliation": "University of Toronto"
+      },
+      {
+        "name": "Harin Lee",
+        "affiliation": "University of Cambridge"
+      },
+      {
+        "name": "Peter M. C. Harrison",
+        "affiliation": "University of Cambridge"
+      },
+      {
+        "name": "Nori Jacoby",
+        "affiliation": "Cornell University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "beat-tracking",
+      "datasets-benchmarks",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "smartlooper-a-framework-for-personalized-human-ai-musical-improvisation",
+    "sourceOrder": 118,
+    "title": "SmartLooper: a Framework for Personalized Human-AI Musical Improvisation",
+    "authors": [
+      {
+        "name": "Finlay Miller",
+        "affiliation": "Dalhousie University"
+      },
+      {
+        "name": "Sageev Oore",
+        "affiliation": "Dalhousie University"
+      },
+      {
+        "name": "Chandramouli Sastry",
+        "affiliation": "Dalhousie University"
+      },
+      {
+        "name": "Marvin da Silva",
+        "affiliation": "Dalhousie University"
+      },
+      {
+        "name": "Sri Harsha Dumpala",
+        "affiliation": "Dalhousie University"
+      },
+      {
+        "name": "Dani Oore",
+        "affiliation": "Independent"
+      },
+      {
+        "name": "Scott Lowe",
+        "affiliation": "Vector Institute"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "human-ai",
+      "accompaniment-improvisation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "digital-existence-as-ontological-intervention-backstage-networks-in-postwar-taiwanese-po",
+    "sourceOrder": 119,
+    "title": "Digital Existence as Ontological Intervention: Backstage Networks in Postwar Taiwanese Popular Music",
+    "authors": [
+      {
+        "name": "Ming Cheng",
+        "affiliation": "Academia Sinica"
+      },
+      {
+        "name": "Yung-Chuan Chang",
+        "affiliation": "Academia Sinica"
+      },
+      {
+        "name": "Chien-Chang Yang",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Li Su",
+        "affiliation": "Academia Sinica"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "d-composer-language-modeling-for-simultaneous-drum-transcription-and-sound-event-decompo",
+    "sourceOrder": 120,
+    "title": "D-Composer: Language Modeling for Simultaneous Drum Transcription and Sound Event Decomposition",
+    "authors": [
+      {
+        "name": "Patrick O'Reilly",
+        "affiliation": "Northwestern University"
+      },
+      {
+        "name": "Saumya Pailwan",
+        "affiliation": "Northwestern University"
+      },
+      {
+        "name": "Annie Chu",
+        "affiliation": "Northwestern University"
+      },
+      {
+        "name": "Jason Smith",
+        "affiliation": "Northwestern University"
+      },
+      {
+        "name": "Bryan Pardo",
+        "affiliation": "Northwestern University"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "transcription",
+      "generation",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "musicologically-interpretable-deep-learning-framework-for-arabic-maqam-identification-an",
+    "sourceOrder": 121,
+    "title": "Musicologically Interpretable Deep Learning Framework for Arabic Maqam Identification and Analysis",
+    "authors": [
+      {
+        "name": "Joseph Bakarji",
+        "affiliation": "American University of Beirut"
+      },
+      {
+        "name": "Khyam Allami",
+        "affiliation": "American University of Beirut"
+      },
+      {
+        "name": "Mohammad El Asal",
+        "affiliation": "American University of Beirut"
+      },
+      {
+        "name": "Dany Abou Jaoude",
+        "affiliation": "American University of Beirut"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "music-analysis",
+      "retrieval-discovery",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "symskill-skill-graph-for-symbolic-music-understanding",
+    "sourceOrder": 122,
+    "title": "SymSkill: Skill Graph for Symbolic Music Understanding",
+    "authors": [
+      {
+        "name": "Junda Wu",
+        "affiliation": "University of California, San Diego"
+      },
+      {
+        "name": "Boyang Wang",
+        "affiliation": "University of California, San Diego"
+      },
+      {
+        "name": "Xunyi Jiang",
+        "affiliation": "University of California, San Diego"
+      },
+      {
+        "name": "Aditya Yadavalli",
+        "affiliation": "University of California, San Diego"
+      },
+      {
+        "name": "Ziyu Wang",
+        "affiliation": "New York University"
+      },
+      {
+        "name": "Qianqi Yan",
+        "affiliation": "University of California, Santa Barbara"
+      },
+      {
+        "name": "Hongyi Wen",
+        "affiliation": "New York University"
+      },
+      {
+        "name": "Julian McAuley",
+        "affiliation": "University of California, San Diego"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "symbolic-music"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "frame-level-pansori-mode-classification-with-complementary-audio-representations",
+    "sourceOrder": 123,
+    "title": "Frame-Level Pansori Mode Classification with Complementary Audio Representations",
+    "authors": [
+      {
+        "name": "Sangheon Park",
+        "affiliation": "Georgia Institute of Technology"
+      },
+      {
+        "name": "Seonguk Ju",
+        "affiliation": "Sogang University"
+      },
+      {
+        "name": "Suin Chung",
+        "affiliation": "Sogang University"
+      },
+      {
+        "name": "Danbinaerin Han",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Dasaem Jeong",
+        "affiliation": "Sogang University"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "representation-learning",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "pitch-contour-tokenization-using-vq-vae-and-its-application-on-korean-traditional-music-",
+    "sourceOrder": 124,
+    "title": "Pitch Contour Tokenization using VQ-VAE and Its Application on Korean Traditional Music Analysis",
+    "authors": [
+      {
+        "name": "Seonguk Ju",
+        "affiliation": "Department of Artificial Intelligence, Sogang University"
+      },
+      {
+        "name": "Seola Cho",
+        "affiliation": "Department of Artificial Intelligence, Sogang University"
+      },
+      {
+        "name": "Suin Chung",
+        "affiliation": "Sogang University"
+      },
+      {
+        "name": "Danbinaerin Han",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Dasaem Jeong",
+        "affiliation": "Department of Art & Technology Sogang University"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "pitch",
+      "music-analysis",
+      "bias-coverage"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "inferring-implied-harmonies-through-voice-leading-in-monophonic-instrumental-music-using",
+    "sourceOrder": 125,
+    "title": "Inferring Implied Harmonies through Voice Leading in Monophonic Instrumental Music Using Graph-Based Methods",
+    "authors": [
+      {
+        "name": "Marina Borsodi-Benson",
+        "affiliation": "EPFL"
+      },
+      {
+        "name": "Martin Rohrmeier",
+        "affiliation": "EPFL"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "music-analysis"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "viotech-frame-level-violin-playing-technique-detection-with-multi-scale-mixture-of-exper",
+    "sourceOrder": 126,
+    "title": "VioTech: Frame-Level Violin Playing Technique Detection with Multi-Scale Mixture-of-Experts",
+    "authors": [
+      {
+        "name": "Ting-Kang Wang",
+        "affiliation": "Academia Sinica"
+      },
+      {
+        "name": "Vincent K.M. Cheung",
+        "affiliation": "Sony Computer Science Laboratories, Inc."
+      },
+      {
+        "name": "Nan-Tien Lai",
+        "affiliation": "National Taiwan University"
+      },
+      {
+        "name": "Li Su",
+        "affiliation": "Academia Sinica"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "detection-provenance",
+      "performance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "stradi-real-time-violin-transcription-for-score-following",
+    "sourceOrder": 127,
+    "title": "STRAdi: Real-Time Violin Transcription for Score Following",
+    "authors": [
+      {
+        "name": "Sein Lee",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Jiyun Park",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Juhan Nam",
+        "affiliation": "KAIST"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "real-time",
+      "transcription",
+      "scores-notation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "measuring-cross-cultural-style-diffusion-through-era-classification-us-and-korean-popula",
+    "sourceOrder": 128,
+    "title": "Measuring Cross-Cultural Style Diffusion Through Era Classification: US and Korean Popular Music",
+    "authors": [
+      {
+        "name": "Dasol Lee",
+        "affiliation": "Sogang University"
+      },
+      {
+        "name": "Minhee Lee",
+        "affiliation": "KAIST"
+      },
+      {
+        "name": "Seonguk Ju",
+        "affiliation": "Sogang University"
+      },
+      {
+        "name": "Daewoong Kim",
+        "affiliation": "Sogang University"
+      },
+      {
+        "name": "Harin Lee",
+        "affiliation": "University of Cambridge"
+      },
+      {
+        "name": "Dasaem Jeong",
+        "affiliation": "Sogang University"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "bias-coverage",
+      "diffusion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "separate-and-detect-unified-drum-transcription-and-stem-generation-via-latent-diffusion",
+    "sourceOrder": 129,
+    "title": "Separate-and-Detect: Unified Drum Transcription and Stem Generation via Latent Diffusion",
+    "authors": [
+      {
+        "name": "Wei-Han Hsu",
+        "affiliation": "Data Science Degree Program, National Taiwan University and Academia Sinica, Taipei, Taiwan"
+      },
+      {
+        "name": "Chih-Cheng Chang",
+        "affiliation": "Institute of Information Science, Academia Sinica, Taiwan"
+      },
+      {
+        "name": "Bo-Yu Chen",
+        "affiliation": "Rhythm Culture Corporation"
+      },
+      {
+        "name": "Li Su",
+        "affiliation": "Institute of Information Science, Academia Sinica, Taiwan"
+      },
+      {
+        "name": "Yi-Hsuan Yang",
+        "affiliation": "Graduate Institute of Communication Engineering, National Taiwan University, Taiwan"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "transcription",
+      "generation",
+      "representation-learning",
+      "source-separation",
+      "detection-provenance",
+      "diffusion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "how-much-ai-is-in-this-track-quantifying-the-proportion-of-ai-generated-stems-in-hybrid-",
+    "sourceOrder": 130,
+    "title": "How Much AI Is in This Track? Quantifying the Proportion of AI-Generated Stems in Hybrid Music Mixtures",
+    "authors": [
+      {
+        "name": "Fernando Garcia de la Cruz",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "David López-Ayala",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Pablo Zinemanas",
+        "affiliation": "BMAT Music Innovators"
+      },
+      {
+        "name": "Emilio Molina",
+        "affiliation": "BMAT Music Innovators"
+      },
+      {
+        "name": "Martín Rocamora",
+        "affiliation": "Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "generation",
+      "detection-provenance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "measure-for-measure-reliable-evaluation-and-a-new-state-of-the-art-for-full-page-optical",
+    "sourceOrder": 131,
+    "title": "Measure for Measure: Reliable Evaluation and a New State of the Art for Full-Page Optical Music Recognition",
+    "authors": [
+      {
+        "name": "Tobias Hornbogen",
+        "affiliation": "Hasso-Plattner-Institute"
+      },
+      {
+        "name": "Josef Valentin",
+        "affiliation": "Hasso-Plattner-Institute"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "evaluation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "understanding-automatic-mixing-a-subtask-oriented-analysis-of-two-stage-mixing-system",
+    "sourceOrder": 132,
+    "title": "Understanding Automatic Mixing: A Subtask-Oriented Analysis of Two-Stage Mixing System",
+    "authors": [
+      {
+        "name": "Jinjie Shi",
+        "affiliation": "Queen Mary University of London"
+      },
+      {
+        "name": "Wei Hua",
+        "affiliation": "Guangxi Arts University"
+      },
+      {
+        "name": "Kunzhu Xie",
+        "affiliation": "Wuhan University of Communications"
+      },
+      {
+        "name": "Make Li",
+        "affiliation": "Xinghai Conservatory of Music"
+      },
+      {
+        "name": "Yuchen Liu",
+        "affiliation": "University College London"
+      },
+      {
+        "name": "Joshua Reiss",
+        "affiliation": "Queen Mary University of London"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "music-analysis",
+      "audio-effects"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "vocal-music-under-phoneme-conditional-analysis",
+    "sourceOrder": 133,
+    "title": "Vocal Music under Phoneme-Conditional Analysis",
+    "authors": [
+      {
+        "name": "Hayoon Kim",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Kyogu Lee",
+        "affiliation": "Seoul National University"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "music-analysis",
+      "lyrics-language"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "music-restoration-via-latent-operator-optimization-and-diffusion-model-priors",
+    "sourceOrder": 134,
+    "title": "Music Restoration via Latent Operator Optimization and Diffusion Model Priors",
+    "authors": [
+      {
+        "name": "Michal Švento",
+        "affiliation": "Brno University of Technology"
+      },
+      {
+        "name": "Eloi Moliner",
+        "affiliation": "Aalto University"
+      },
+      {
+        "name": "Valtteri Kallinen",
+        "affiliation": "Aalto University"
+      },
+      {
+        "name": "Lauri Juvela",
+        "affiliation": "Aalto University"
+      },
+      {
+        "name": "Vesa Välimäki",
+        "affiliation": "Aalto University"
+      },
+      {
+        "name": "Pavel Rajmic",
+        "affiliation": "Brno University of Technology"
+      }
+    ],
+    "primaryTopic": "production-transformation",
+    "conceptTags": [
+      "representation-learning",
+      "audio-transformation",
+      "diffusion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "music-inpainting-with-similarity-guided-latent-diffusion",
+    "sourceOrder": 135,
+    "title": "Music Inpainting with Similarity-Guided Latent Diffusion",
+    "authors": [
+      {
+        "name": "Sean Turland",
+        "affiliation": "University of Edinburgh"
+      },
+      {
+        "name": "Eloi Moliner",
+        "affiliation": "Aalto University"
+      },
+      {
+        "name": "Vesa Välimäki",
+        "affiliation": "Aalto University"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "generation",
+      "representation-learning",
+      "diffusion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "metamatch-reconciling-metadata-for-aggregating-music-difficulty-annotations",
+    "sourceOrder": 136,
+    "title": "MetaMatch: Reconciling Metadata for Aggregating Music Difficulty Annotations",
+    "authors": [
+      {
+        "name": "Megan E. Finch",
+        "affiliation": "Durham"
+      },
+      {
+        "name": "Chris G. Willcocks",
+        "affiliation": "Durham"
+      },
+      {
+        "name": "Mark R. H. Gotham",
+        "affiliation": "KCL"
+      }
+    ],
+    "primaryTopic": "transcription-analysis",
+    "conceptTags": [
+      "scores-notation"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "i-just-kept-clicking-until-it-hit-exploring-virtual-instrument-search-behavior-and-chall",
+    "sourceOrder": 137,
+    "title": "I Just Kept Clicking Until It Hit: Exploring Virtual Instrument Search behavior and Challenges Across User Groups",
+    "authors": [
+      {
+        "name": "Subeen Kim",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Eunsik Shin",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Woojae Cho",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Kyogu Lee",
+        "affiliation": "Seoul National University"
+      }
+    ],
+    "primaryTopic": "representations-discovery",
+    "conceptTags": [
+      "retrieval-discovery"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "real-time-interactive-music-generation-via-training-data-free-streaming-consistency-dist",
+    "sourceOrder": 138,
+    "title": "Real-Time Interactive Music Generation via Training-Data-Free Streaming Consistency Distillation",
+    "authors": [
+      {
+        "name": "Baisen Wang",
+        "affiliation": "Institute of Information Engineering, Chinese Academy of Sciences"
+      },
+      {
+        "name": "Chenxi Bao",
+        "affiliation": "DynamiX"
+      },
+      {
+        "name": "Qisong Han",
+        "affiliation": "Cardiff University"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "real-time",
+      "generation",
+      "human-ai"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "assessing-ai-generated-music-detection-in-real-world-broadcast-monitoring",
+    "sourceOrder": 139,
+    "title": "Assessing AI-Generated Music Detection in Real-World Broadcast Monitoring",
+    "authors": [
+      {
+        "name": "David López-Ayala",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Fernando Garcia de la Cruz",
+        "affiliation": "Universitat Pompeu Fabra"
+      },
+      {
+        "name": "Pablo Zinemanas",
+        "affiliation": "BMAT Music Innovators"
+      },
+      {
+        "name": "Emilio Molina",
+        "affiliation": "BMAT Music Innovators"
+      },
+      {
+        "name": "Martín Rocamora",
+        "affiliation": "Universitat Pompeu Fabra"
+      }
+    ],
+    "primaryTopic": "generation-collaboration",
+    "conceptTags": [
+      "generation",
+      "evaluation",
+      "detection-provenance"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  },
+  {
+    "id": "invflowfd-reference-free-and-background-set-free-perceptual-music-quality-metric-with-fl",
+    "sourceOrder": 140,
+    "title": "InvFlowFD: Reference-Free and Background-Set-Free Perceptual Music Quality Metric with Flow Matching Inversion",
+    "authors": [
+      {
+        "name": "Alon Ziv",
+        "affiliation": "The Hebrew University of Jerusalem"
+      },
+      {
+        "name": "Harel Pogoda",
+        "affiliation": "The Hebrew University of Jerusalem"
+      },
+      {
+        "name": "Yossi Adi",
+        "affiliation": "The Hebrew University of Jerusalem"
+      }
+    ],
+    "primaryTopic": "evaluation-culture",
+    "conceptTags": [
+      "evaluation",
+      "perception-emotion"
+    ],
+    "sourceUrl": "https://ismir2026.ismir.net/accepted-papers",
+    "paperUrl": null,
+    "classificationBasis": "title-and-metadata-inference"
+  }
+]

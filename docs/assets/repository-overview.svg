@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
-  <title id="title">Planned ISMIR 2026 Research Atlas journey</title>
+  <title id="title">ISMIR 2026 Research Atlas journey</title>
   <desc id="desc">Official accepted-paper metadata flows through a reviewed local snapshot and title-derived editorial interpretation into a stable two-dimensional map, paper details, guided trails, and a local reading queue.</desc>
   <rect width="1200" height="520" fill="#f5f4ef"/>
   <style>
@@ -11,7 +11,7 @@
     .meta { font-size:14px; font-weight:700; letter-spacing:.8px }
     .line { stroke:#2f3533; stroke-width:2; fill:none }
   </style>
-  <text class="eyebrow" x="56" y="54">PLANNED USER JOURNEY</text>
+  <text class="eyebrow" x="56" y="54">RESEARCH ATLAS JOURNEY</text>
   <text class="title" x="56" y="94">From official titles to an explorable research atlas</text>
   <path class="line" d="M225 260H270M465 260H510M705 260H750M945 260H990"/>
   <path d="M260 252l12 8-12 8" fill="#2f3533"/>

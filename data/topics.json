@@ -1,0 +1,42 @@
+[
+  {
+    "id": "transcription-analysis",
+    "label": "Transcription and musical analysis",
+    "shortLabel": "Transcription & analysis",
+    "color": "#1d777e",
+    "marker": "square",
+    "description": "Title-derived work on transcription, score understanding, timing, harmony, structure, and musical analysis."
+  },
+  {
+    "id": "generation-collaboration",
+    "label": "Generative music and human–AI collaboration",
+    "shortLabel": "Generation & collaboration",
+    "color": "#bd4d37",
+    "marker": "diamond",
+    "description": "Title-derived work on music generation, accompaniment, improvisation, controllability, and human–AI creation."
+  },
+  {
+    "id": "representations-discovery",
+    "label": "Music representations, understanding, and discovery",
+    "shortLabel": "Representations & discovery",
+    "color": "#6357ad",
+    "marker": "triangle",
+    "description": "Title-derived work on representations, retrieval, recommendation, datasets, identification, and multimodal understanding."
+  },
+  {
+    "id": "production-transformation",
+    "label": "Production, separation, and audio transformation",
+    "shortLabel": "Production & transformation",
+    "color": "#987111",
+    "marker": "cross",
+    "description": "Title-derived work on mixing, effects, source separation, restoration, synthesis, and audio transformation."
+  },
+  {
+    "id": "evaluation-culture",
+    "label": "Evaluation, perception, and cultural coverage",
+    "shortLabel": "Evaluation & culture",
+    "color": "#44754d",
+    "marker": "circle",
+    "description": "Title-derived work on evaluation, perception, bias, cultural coverage, detection, and research benchmarks."
+  }
+]
