@@ -6,6 +6,7 @@ test.beforeEach(async ({ page }) => {
 });
 
 test('map, search, topic, selection, and URL state stay synchronized', async ({ page }) => {
+  await expect(page.getByRole('heading', { level: 1, name: 'Explore ISMIR 2026 Papers' })).toBeVisible();
   await expect(page.locator('.paper-point')).toHaveCount(140);
   await page.getByLabel('Search papers').fill('OudTabs');
   await expect(page.locator('.paper-point')).toHaveCount(1);
